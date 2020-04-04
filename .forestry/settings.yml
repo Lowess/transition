@@ -164,7 +164,6 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - HUGO_ENV=staging
   - HUGO_VERSION=0.67.0
   preview_output_directory: public
   preview_docker_image: peaceiris/hugo:v0.65.3-mod
