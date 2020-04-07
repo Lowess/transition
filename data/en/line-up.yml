@@ -1,5 +1,5 @@
 ################################## About #####################################
-artists:
+line-up:
   - enable : true
     image : "images/company/about.jpg"
     title : "We strive to be the best and <br> make awesome work."

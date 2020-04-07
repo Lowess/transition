@@ -1,6 +1,6 @@
 <!-- Header Start -->
 <header class="navigation">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
         <!-- header Nav Start -->
@@ -37,6 +37,12 @@
               {{ end }}
               {{ end }}
 
+              <!--social-->
+              {{ range .Site.Params.social }}
+              <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+              {{ end }}
+
+              <!--/social-->
               <!-- Language List -->
               {{- if .Site.IsMultiLingual }}
               <li>
@@ -62,7 +68,6 @@
                 </select>
               </li>
               {{ end }}
-
             </ul>
           </div><!-- /.navbar-collapse -->
         </nav>

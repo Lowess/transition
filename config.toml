@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Transition | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -23,6 +23,8 @@ link = "plugins/Ionicons/css/ionicons.min.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/transition/artists.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -56,7 +58,7 @@ hasChildren = true
   [[menu.main]]
   parent = "News"
   name = "WorkShop"
-  URL = "news/events"
+  URL = "news/workshop"
 
 [[menu.main]]
 name = "Transition"
@@ -162,12 +164,12 @@ weight = 6
 [params]
 logo = "images/logo_sm.png"
 # Meta data
-description = "This is meta description"
+description = "Ephemeral Street Art Museum"
 author = "Florian Dambrine"
 # Contact Information
 mobile = "0124857985320"
 email = "transition@gmail.com"
-location = "North Main Street,Brooklyn Australia"
+location = "Quartier du soleil levant - 80100 Abbeville"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -231,7 +233,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -241,4 +243,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"

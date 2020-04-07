@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- artists -->
+{{ partial "artists" . }}
+<!-- /artists -->
+
+{{ end }}
