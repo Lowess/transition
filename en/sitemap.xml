@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lowess.github.io/transition/news/events/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/news/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/news/workshop/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/graffiti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/anru-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/project/rio-furniture-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/graffiti/music/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/graffiti/others/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/graffiti/skatepark/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/transition/fr/transition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/transition/transition/"
+                />
+  </url>
+  
+</urlset>
