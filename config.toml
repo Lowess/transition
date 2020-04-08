@@ -11,6 +11,11 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
+#################################### Maintenance mode ##############################
+
+[params.maintenance]
+enable =  true
+image = "images/transition-poster-white.jpg"
 
 #################################### Plugins ##############################
 
@@ -25,6 +30,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/transition/artists.css"
+[[params.plugins.css]]
+link = "plugins/transition/maintenance.css"
 
 # JS Plugins
 [[params.plugins.js]]
