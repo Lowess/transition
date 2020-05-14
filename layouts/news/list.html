@@ -8,10 +8,10 @@
 <section class="news-feed">
   <div class="container ">
     <div class="row spacer">
-    {{ range .Pages }}
+      {{ range .Params.news }}
       <div class="col-md-4">
-      {{ $id := .Params.instagram_post }}
-      {{ $hideCaption := not .Params.instagram_caption | default true }}
+        {{ $id := .instagram_post }}
+        {{ $hideCaption := not .instagram_caption | default true }}
 
       {{ $id := replaceRE "^(?:https?://)?(?:www.)?(?:instagram.com/p/)?([^/]+).*/?$" "$1" $id }}
 
