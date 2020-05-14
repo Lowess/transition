@@ -2,10 +2,11 @@
 label: News
 hide_body: false
 fields:
-  - type: text
-    name: instagram_post
-    label: instagram_post
-
-  - type:  boolean
-    name: instagram_caption
-    label: instagram_caption
+- type: text
+  name: instagram_post
+  label: instagram_post
+- type: boolean
+  name: instagram_caption
+  label: instagram_caption
+pages:
+- content/french/news/instapost.md

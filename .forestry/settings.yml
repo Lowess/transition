@@ -1,79 +1,57 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ""
-webhook_url:
+admin_path: ''
+webhook_url: 
 sections:
-  #############################################################################
-  ### Site
-  #############################################################################
-
-  - type: heading
-    label: Site
-
-  - type: directory
-    path: content/french/news
-    label: News
-    create: documents
-    match: "**/*"
-    templates:
-      - news
-
-  - type: directory
-    path: content/french/line-up
-    label: Line-Up
-    create: documents
-    match: "**/*"
-    templates:
-      - artist
-
-  #############################################################################
-  ### DATA
-  #############################################################################
-
-  - type: heading
-    label: Data
-
-  - type: directory
-    path: data/fr
-    label: Data (fr)
-    create: all
-    match: "**/*"
-
-  - type: directory
-    path: i18n
-    label: i18n
-    create: documents
-    match: "**/*"
-
-  - type: heading
-    label: Configuration
-
-  - type: directory
-    path: "."
-    label: Configuration
-    create: all
-    match: "*.toml"
-    new_doc_ext: toml
-
+- type: heading
+  label: Site
+- type: directory
+  path: content/french/news
+  label: News
+  create: documents
+  match: "**/*"
+  templates:
+  - news
+- type: directory
+  path: content/french/line-up
+  label: Line-Up
+  create: documents
+  match: "**/*"
+  templates:
+  - artist
+- type: heading
+  label: Data
+- type: directory
+  path: data/fr
+  label: Data (fr)
+  create: all
+  match: "**/*"
+- type: directory
+  path: i18n
+  label: i18n
+  create: documents
+  match: "**/*"
+- type: heading
+  label: Configuration
+- type: directory
+  path: "."
+  label: Configuration
+  create: all
+  match: "*.toml"
+  new_doc_ext: toml
 upload_dir: static/images
-
 public_path: "/images"
-
-front_matter_path: ""
-
+front_matter_path: ''
 use_front_matter_path: false
-
 file_template: ":filename:"
-
 build:
   preview_env:
-    - HUGO_VERSION=0.67.0
+  - HUGO_VERSION=0.67.0
   preview_output_directory: public
   preview_docker_image: peaceiris/hugo:v0.65.3-mod
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command:
-    server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+  instant_preview_command: server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: 0.58.2
