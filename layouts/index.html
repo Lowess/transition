@@ -3,7 +3,11 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- artists -->
-{{ partial "artists" . }}
+<p class="text-center">
+  <img src="{{ "images/transition-poster-white.jpg" | relURL }}"/>
+</p>
+
 <!-- /artists -->
+{{/* partial "artists" . */}}
 
 {{ end }}

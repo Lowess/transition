@@ -2,8 +2,29 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<main>
-  {{ partial "artists" . }}
-</main>
+<!--artist-->
+<section class="artists-lineup">
+  <div class="artist-lineup-header">
+    <h1>LineUp</h1>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row spacer">
+      {{ range .Pages }}
+        <div class="col-md-3">
+          <div class="artist-card">
+            <a href="{{ .URL }}">
+              <div class="artist-card-img" style="background-image:url({{ .Params.banner | absURL }});"></div>
+              <div class="artist-card-img-overlay">
+                <h4 class="artist-card-title">{{ .Title }}</h4>
+              </div>
+            </a>
+          </div>
+        </div>
+      {{ end}}
+    </div>
+  </div>
+</section>
+<!--/artist-->
 
 {{ end }}

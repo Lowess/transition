@@ -5,6 +5,7 @@
 <!--artist-->
 <section class="artists-lineup">
   <div class="container-fluid">
+
     <div class="artist-lineup-header">
       <h1>LineUp</h1>
     </div>
@@ -15,7 +16,7 @@
         {{ $bannerUrl := print $galleryUrl "/" .banner | absURL }}
         <div class="col-md-3">
           <div class="artist-card">
-            <a href="">
+            <a href='{{ "#" }}' >
               <div class="artist-card-img" style="background-image:url({{ $bannerUrl }});"></div>
               <div class="artist-card-img-overlay">
                 <h4 class="artist-card-title">{{ .name }}</h4>
@@ -31,4 +32,3 @@
 
 {{ end }}
 {{ end }}
-

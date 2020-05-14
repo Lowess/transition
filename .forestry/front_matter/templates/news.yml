@@ -1,0 +1,7 @@
+---
+label: News
+hide_body: false
+fields:
+- type: text
+  name: instagram_url
+  label: instagram_url

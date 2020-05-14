@@ -1,0 +1,4 @@
+---
+cascade:
+  lineUpGallery: "images/artists"
+---

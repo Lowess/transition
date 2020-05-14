@@ -1,0 +1,9 @@
+{{ $root := .root }}
+
+<div class="row">
+  {{ range .images }}
+    <div class="col-md-4">
+      <img src="{{ (printf "%s/%s" $root .Name | absURL) }}" class="img-thumbnail"/>
+    </div>
+{{ end }}
+</div>
