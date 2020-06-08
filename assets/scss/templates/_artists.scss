@@ -23,7 +23,7 @@
 .artist-card-img {
   width: 100%;
   height: 100%;
-  background-color: black; /* fallback color */
+  background-color: #ddd; /* fallback color */
   background-position: center;
   background-size: cover;
   transition:all 0.3s ease-in-out;
@@ -53,8 +53,8 @@
 
 .artist-card .artist-card-img-overlay{
   visibility: hidden;
-      margin-top: auto;
-    margin-bottom: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .artist-card:hover .artist-card-img-overlay{
@@ -62,4 +62,18 @@
     background-color: white; /* fallback color */
     opacity:1;
     visibility: visible;
+}
+
+.artist-item {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $secondary-font;
+  }
+}
+
+.artist-galery{
+  .img-thumbnail {
+    display: block;
+    max-width:100%;
+    height:auto;
+  }
 }

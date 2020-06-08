@@ -1,54 +1,34 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
+<!-- {{ partial "page-title.html" . }} -->
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- Transition project -->
 <section id="project" class="transition-project">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat ex at felis sagittis, at laoreet libero
-finibus. Sed non facilisis risus, sit amet dictum sapien. Cras orci sapien, efficitur eu faucibus a, finibus faucibus
-felis. Curabitur imperdiet eu purus quis congue. Aenean sodales arcu purus, quis euismod velit cursus et. Donec nec
-metus dapibus, lacinia ante in, ultricies tortor. Phasellus consectetur pellentesque nisl, sit amet elementum erat
-egestas a. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque
-ante nibh, aliquet ut leo id, viverra venenatis augue. Praesent viverra urna eu elit eleifend, in tempus mauris
-consectetur. Maecenas varius tellus ex, eget convallis turpis mollis imperdiet.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec in ullamcorper ex, eget
-finibus nisi. Nullam consectetur accumsan condimentum. Nullam nulla tellus, pretium interdum tortor nec, pellentesque
-faucibus nunc. Nulla id vulputate mauris, in cursus urna. Proin eu congue sem, sed facilisis enim. Nullam ac sagittis
-est, non commodo ex. Vestibulum sollicitudin, magna ac efficitur feugiat, risus massa gravida ipsum, egestas consequat
-odio arcu non neque. Mauris posuere velit et turpis sollicitudin suscipit. Duis rhoncus ante vel leo dignissim, eu
-fringilla felis vulputate. Morbi lectus sem, luctus non elit sit amet, auctor suscipit orci. Donec laoreet sed nisl eget
-malesuada. Donec dictum, magna sit amet facilisis accumsan, nisi metus maximus odio, sit amet tincidunt libero leo quis
-neque. Maecenas ut accumsan nisi, sit amet posuere enim. Orci varius natoque penatibus et magnis dis parturient montes,
-nascetur ridiculus mus.
-
-Nunc ornare odio a neque mattis, faucibus bibendum libero viverra. Suspendisse non diam sed turpis sagittis luctus.
-Phasellus pharetra rhoncus sollicitudin. Nam vitae eros non diam pellentesque dapibus sed vel ex. Pellentesque tempor
-hendrerit lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc
-auctor urna quam, a facilisis leo scelerisque eu. Curabitur cursus, nisi sit amet pharetra iaculis, sem lorem dictum
-metus, eu convallis magna erat vel ex.
-
-Sed tempor ex sit amet nisl eleifend, vitae lacinia libero dictum. Quisque sodales nisl dolor, non iaculis risus luctus
-sit amet. Pellentesque tortor ligula, posuere a justo non, dignissim congue ligula. Aliquam laoreet quis felis non
-tempus. Donec sed nisl at lectus sodales elementum vitae tristique neque. Nunc sit amet purus sagittis nunc mattis
-posuere vitae sed enim. Morbi suscipit, velit sed aliquam varius, nulla est fringilla turpis, in semper sapien risus sed
-odio. Quisque massa tortor, consectetur mollis egestas ut, tincidunt vitae odio. Proin tempor est ex, vitae rhoncus elit
-convallis eget. Donec ultrices enim finibus neque scelerisque, ut lobortis tellus consectetur. Donec arcu dui, lacinia
-nec elit non, congue fringilla urna. Pellentesque finibus viverra dolor, sit amet elementum nulla volutpat et. Etiam
-iaculis placerat erat id faucibus. Duis viverra libero enim, eu tempor nibh luctus sit amet. Suspendisse ac lobortis
-velit, ut lacinia nunc.
-          </h1>
-
+  <div class="container-fluid">
+    {{ range .Pages }}
+    {{ $lastUrlElement := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
+    <div id="{{ $lastUrlElement }}" class="row">
+      <h1>
+        {{ partial "page-title.html" . }}
+      </h1>
+      <div class="col-md-offset-1 col-md-3">
+        <div class="panel text-justify">
+          <div class="panel-body">
+            {{ .Content }}
+          </div>
         </div>
       </div>
+
+      <div class="col-md-5">
+        <div class="transition-img">
+          <img src="{{ .Params.photo | absURL }}"/>
+        </div>
+      </div>
+
     </div>
+  {{ end }}
   </div>
 </section>
 

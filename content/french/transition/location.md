@@ -1,6 +1,10 @@
 ---
-title: "The ANRU Project"
+title: "Le lieu"
 description: "this is meta description"
 draft: false
-bg_image: "images/featue-bg.jpg"
+banner: "images/project/quartier.png"
+photo: "images/project/quartier.png"
+weight: 2
 ---
+
+Heloo

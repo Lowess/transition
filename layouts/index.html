@@ -2,12 +2,25 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- artists -->
-<p class="text-center">
-  <img src="{{ "images/transition-poster-white.jpg" | relURL }}"/>
-</p>
+<!-- /line-up -->
+{{ partial "line-up" . }}
 
-<!-- /artists -->
-{{/* partial "artists" . */}}
+<div class="container-fluid">
 
+  <hr />
+
+  <div class="row">
+    <!-- home-banner -->
+    <div class="col-md-6">
+      <p class="text-center">
+        {{ .Content }}
+      </p>
+    </div>
+    <div class="col-md-6">
+      <p class="text-center">
+        <img src="{{ "images/transition-poster-white.jpg" | relURL }}" class="img-responsive" />
+      </p>
+    </div>
+  </div>
+</div>
 {{ end }}

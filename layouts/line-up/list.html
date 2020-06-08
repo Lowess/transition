@@ -4,17 +4,24 @@
 
 <!--artist-->
 <section class="artists-lineup">
-  <div class="artist-lineup-header">
-    <h1>LineUp</h1>
-  </div>
+  <div class="container">
+    <div class="artist-lineup-header">
+      <h1>LineUp</h1>
+    </div>
 
-  <div class="container-fluid">
-    <div class="row spacer">
+    <div class="row">
       {{ range .Pages }}
         <div class="col-md-3">
           <div class="artist-card">
             <a href="{{ .URL }}">
-              <div class="artist-card-img" style="background-image:url({{ .Params.banner | absURL }});"></div>
+              {{ $artistBanner := .Params.Image }}
+              {{ if (fileExists (printf "static/%s" $artistBanner)) -}}
+                <div class="artist-card-img" style="background-image:url({{ $artistBanner | relURL }});"></div>
+              {{ else }}
+                <div class="artist-card-img" style='background-position: top; background-color: white; background-size: 300px; background-image:url({{ "images/artists/default/banner.png" | relURL }});'></div>
+              {{- end }}
+
+              <!-- <div class="artist-card-img" style="background-image:url({{ .Params.banner | absURL }});"></div> -->
               <div class="artist-card-img-overlay">
                 <h4 class="artist-card-title">{{ .Title }}</h4>
               </div>

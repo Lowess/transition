@@ -4,32 +4,53 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="artists-item section-sm">
+<section class="artist-item section-sm">
   <div class="container">
     <div class="row">
-
-      <div class="col-md-10">
-        <img class="img-responsive w-100" src="{{ .Params.Image | relURL }}" alt="">
+      <div class="col-md-8">
+        {{ $artistBanner := .Params.Image }}
+        {{ if (fileExists (printf "static/%s" $artistBanner)) -}}
+          <img class="img-responsive w-100" src="{{ $artistBanner | relURL }}" alt="">
+        {{ else }}
+          <img class="img-responsive w-100" src='{{ "images/artists/default/banner.png" | relURL }}' alt="">
+        {{- end }}
       </div>
 
-      <div class="col-md-2">
-        <div class="project-details">
-          <h4>Social Networks</h4>
-            <ul class="social-icons">
-              {{ range .Params.social }}
-              <li>
-                <a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a>
-              </li>
-              {{ end }}
-            </ul>
-          </ul>
+      <div class="col-md-4">
+        <div class="artist-details">
+          <h1><i class="ion-pricetags" style="font-size: 30px;"></i> Syle</h1>
+          {{ range (.GetTerms "tags") }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+
+          <h1><i class="ion-location" style="font-size: 30px;"></i> Origine</h1>
+          {{ range (.GetTerms "categories") }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{ end }}
+
+          <hr />
+
+          <h1>Social</h1>
+          <hr />
+          {{ range .Params.social }}
+          <div class="row">
+            <a href="{{ .link | safeURL }}" target="blank">
+              <div class="col-md-2">
+                <i class="{{ .icon }}" style="font-size: 30px;"></i>
+              </div>
+              <div class="col-md-10">
+                <span class="align-middle">{{ index (last 1 (split .link "/")) 0 }}</span>
+              </div>
+            </a>
+          </div>
+          {{ end }}
         </div>
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-12">
-        <div class="project-content mt-50">
+        <div class="artist-content mt-50">
           {{ .Content }}
         </div>
       </div>
@@ -37,13 +58,15 @@
     <hr />
     <div class="row">
       <div class="col-md-12">
-        <div class="project-details">
-          <h1>Artist Gallery</h4>
+        <div class="artist-details">
+          <h1>Galerie</h1>
           <div class="row">
             {{ $artistPicturesPath := (printf "%s/%s" .Params.lineUpGallery .Params.gallery) }}
-            {{ $artistPictures :=  readDir (printf "static/%s" $artistPicturesPath) }}
 
-            {{ partial "carousel.html" (dict "root" $artistPicturesPath "images" $artistPictures) }}
+            {{ if (fileExists (printf "static/%s" .Params.image)) -}}
+              {{ $artistPictures :=  readDir (printf "static/%s" $artistPicturesPath) }}
+              {{ partial "carousel.html" (dict "root" $artistPicturesPath "images" $artistPictures) }}
+            {{- end }}
           </div>
         </div>
       </div>

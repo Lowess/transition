@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- Transition project -->
+<section id="partners" class="partners">
+  <div class="container-fluid">
+    <div class="row">
+    {{ range .Pages }}
+    {{ $lastUrlElement := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
+    <div id="{{ $lastUrlElement }}">
+      <div class="col-md col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ .Title }}</h3>
+            </div>
+
+            <div class="panel-body">
+              <ul class="list-group">
+                {{ range .Params.partners }}
+                  <li class="list-group-item">{{ .name }}</li>
+                {{ end }}
+              </ul>
+            </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

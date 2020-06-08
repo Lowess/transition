@@ -1,6 +1,6 @@
 ---
-title: "Our Partners"
-description: "this is meta description"
+title: "Nos Partenaires"
+description: "Ils supportent le projet Transition"
 draft: false
-bg_image: "images/featue-bg.jpg"
+banner: "images/partners/partners.png"
 ---

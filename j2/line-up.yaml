@@ -1,0 +1,318 @@
+---
+lineup:
+  - name: JONONE
+    tags:
+      - graffiti
+      - abstrait
+    categories:
+      - new-york
+      - paris
+
+  - name: Astro
+    tags:
+      - anamorphose
+    categories:
+      - paris
+
+  - name: SCAF-ONER
+    tags:
+      - anamorphose
+    categories:
+      - metz
+
+  - name: Abys
+    tags:
+      - anamorphose
+    categories:
+      - metz
+
+  - name: MISSY
+    tags:
+      - illustration
+      - oiseaux
+    categories:
+      - strasbourg
+
+  - name: 3 PETITS POINTS
+    tags:
+      - illustration
+      - figuratif
+    categories:
+      - lyon
+
+  - name: GREMS
+    tags:
+      - post
+      - graffiti
+    categories:
+      - biarritz
+
+  - name: BEBAR
+    tags:
+      - psyché
+    categories:
+      - paris
+
+  - name: Monsieur BMX
+    tags:
+      - installation
+    categories:
+      - montpellier
+
+  - name: SIKO1
+    tags:
+      - graphique
+    categories:
+      - montpellier
+
+
+  - name: DANTE
+    tags:
+      - illustration
+      - typo
+    categories:
+      - paris
+
+  - name: CANNIBAL LETTERS
+    tags:
+      - illustration
+      - typo
+    categories:
+      - paris
+
+  - name: TEMPO
+    tags:
+      - réalisme
+      - transparence
+    categories:
+      - paris
+
+  - name: 2FLUI
+    tags:
+      - calligraphie
+    categories:
+      - paris
+
+  - name: EKLOR
+    tags:
+      - graffiti
+      - figuratif
+    categories:
+      - amsterdam
+
+  - name: HOROR
+    tags:
+      - illustration
+      - animaux
+    categories:
+      - paris
+
+  - name: AGATHE VERSCHAFFEL
+    tags:
+      - réalisme
+    categories:
+      - calais
+
+  - name: Psy
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: Lady K
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: Dize
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: Rasko1
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: Espack
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: Naste
+    tags:
+      - graffiti
+    categories:
+      - paris
+
+  - name: BOB 59
+    tags:
+      - motifs
+      - illustration
+    categories:
+      - lille
+
+  - name: XKUZ
+    tags:
+      - lettrage
+      - graphique
+    categories:
+      - chantilly
+
+  - name: CELINE RANO
+    tags:
+      - motifs
+      - illustration
+    categories:
+      - paris
+
+  - name: SIFAT
+    tags:
+      - motifs
+    categories:
+      - paris
+
+  - name: SHUPA
+    tags:
+      - graffiti
+      - abstrait
+    categories:
+      - paris
+
+  - name: GUMO
+    tags:
+      - illustration
+    categories:
+      - paris
+
+  - name: ZAG
+    tags:
+      - anamorphose
+    categories:
+      - morlaix-paris
+
+  - name: ANJE
+    tags:
+      - anamorphose
+    categories:
+      - morlaix-paris
+
+  - name: TERMIK
+    tags:
+      - décor
+      - portrait
+    categories:
+      - amiens
+
+  - name: JOHAN made in graffiti
+    tags:
+      - réalisme
+    categories:
+      - EU la ville soeur
+
+  - name: JAnk62
+    tags:
+      - réalisme
+    categories:
+      - calais
+
+  - name: GRISONE
+    tags:
+      - graffiti
+      - pop
+    categories:
+      - lyon
+
+  - name: Vincent Pietri
+    tags: []
+    categories:
+      - aurillac
+
+  - name: LAURAINE NTI
+    tags:
+      - illustration
+    categories:
+      - lyon
+
+  - name: Brokovich
+    tags:
+      - illustration
+    categories:
+      - annecy
+
+  - name: XZXZ
+    tags:
+      - pochoir
+      - collage
+    categories:
+      - aurillac
+
+  - name: Hugo GRAVEL
+    tags: []
+    categories:
+      - lyon
+
+  - name: Valer
+    tags:
+      - graffiti
+    categories:
+      - strasbourg
+
+  - name: Alexandre Deron
+    tags:
+      - réalisme
+      - huile
+    categories:
+      - bayonne
+
+  - name: Bault
+    tags:
+      - illustration
+    categories:
+      - montpellier
+
+  - name: Saké - 132 Crew
+    tags: []
+    categories:
+      - marseille
+
+  - name: MG la bomba - OVK AOA GB Crew
+    tags: []
+    categories:
+      - bruxelles
+
+  - name: Zoyer - AOA TWE GB Crew
+    tags: []
+    categories:
+      - paris
+
+  - name: Dr.Wozer - AOA LBN BMK Crew
+    tags: []
+    categories:
+      - etaples
+
+  - name: Jaek
+    tags:
+      - BD
+    categories:
+      - strasbourg
+
+  - name: Stom 500
+    tags: []
+    categories:
+      - strasbourg
+
+  - name: Miss
+    tags: []
+    categories:
+      - strasbourg
+
+  - name: La Shoze
+    tags:
+      - bubble
+    categories:
+      - Amiens

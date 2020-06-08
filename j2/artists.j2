@@ -1,0 +1,3 @@
+{% for artist in lineup %}
+yasha -e j2/extensions.py --name="{{ artist.name }}" --tags="{{ artist.tags }}" --categories="{{ artist.categories }}" j2/line-up.j2 -o content/french/line-up/{{ artist.name | lower | replace(" ", "-") }}.md
+{% endfor %}

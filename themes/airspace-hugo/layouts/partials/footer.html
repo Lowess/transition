@@ -5,7 +5,7 @@
 				<div class="footer-manu">
 					<ul>
             {{ range .Site.Menus.footer }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
             {{ end }}
 					</ul>
 				</div>
@@ -15,7 +15,7 @@
 	</div>
 </footer>
 
-  
+
 <!-- Google Map API -->
 {{ if .Site.Params.gmap.enable }}
 <script src="{{ .Site.Params.gmap.gmap_api | safeURL }}"></script>

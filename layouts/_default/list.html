@@ -11,14 +11,18 @@
         <div class="post">
           <div class="post-media post-thumb">
             <a href="{{ .Permalink }}">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+							{{ $artistBanner := .Params.Image }}
+							{{ if (fileExists (printf "static/%s" $artistBanner)) -}}
+							<img class="img-responsive" src="{{ $artistBanner | relURL }}" alt="">
+							{{ else }}
+							<img class="img-responsive" src='{{ "images/artists/default/banner.png" | relURL }}' alt="">
+							{{- end }}
             </a>
           </div>
           <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <div class="post-meta">
             <ul>
               <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
-              <li><i class="ion-android-people"></i> {{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li>
               <li><i class="ion-pricetags"></i>
                 {{ range $index, $elements:= .Params.Tags }}
                 {{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | lower }}">{{ . | humanize }}</a>
@@ -28,7 +32,7 @@
           </div>
           <div class="post-content">
             <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}" class="btn btn-main">{{ i18n "read_more" }}</a>
+            <a href="{{ .Permalink }}" class="btn btn-main">Voir artiste</a>
           </div>
         </div>
         {{ end }}
