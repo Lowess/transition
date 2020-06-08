@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Transition | Creative Agency Hugo Template</title>
+    <link>https://lowess.github.io/transition/tags/post/</link>
+    <description>Recent content in post on Transition | Creative Agency Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
+    
+	<atom:link href="https://lowess.github.io/transition/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GREMS</title>
+      <link>https://lowess.github.io/transition/line-up/grems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowess.github.io/transition/line-up/grems/</guid>
+      <description>Biography  GREMS</description>
+    </item>
+    
+  </channel>
+</rss>

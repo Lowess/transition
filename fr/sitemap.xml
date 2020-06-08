@@ -3,13 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lowess.github.io/transition/news/</loc>
-    <lastmod>2019-12-23T07:05:29+00:00</lastmod>
+    <loc>https://lowess.github.io/transition/transition/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/partners/operational/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/partners/financial/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/transition/anru/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/partners/media/</loc>
   </url>
   
   <url>
     <loc>https://lowess.github.io/transition/</loc>
-    <lastmod>2019-12-23T07:05:29+00:00</lastmod>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,15 +42,120 @@
   </url>
   
   <url>
+    <loc>https://lowess.github.io/transition/news/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lowess.github.io/transition/line-up/</loc>
   </url>
   
   <url>
-    <loc>https://lowess.github.io/transition/news/instapost/</loc>
+    <loc>https://lowess.github.io/transition/line-up/2flui/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/3-petits-points/</loc>
   </url>
   
   <url>
     <loc>https://lowess.github.io/transition/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/abstrait/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/abys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/agathe-verschaffel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/alexandre-deron/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/amiens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/amsterdam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/anamorphose/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/animaux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/anje/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/annecy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/astro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/aurillac/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/bault/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/bayonne/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/bd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/bebar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/biarritz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/bob-59/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/brokovich/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/bruxelles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/bubble/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/calais/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/calligraphie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/cannibal-letters/</loc>
   </url>
   
   <url>
@@ -49,11 +173,243 @@
   </url>
   
   <url>
+    <loc>https://lowess.github.io/transition/line-up/celine-rano/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/chantilly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/collage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/dante/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/dize/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/dr.wozer-aoa-lbn-bmk-crew/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/d%C3%A9cor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/eklor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/espack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/etaples/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/eu-la-ville-soeur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/figuratif/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/graffiti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/graphique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/grems/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/grisone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/gumo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/horor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/hugo-gravel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/huile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/illustration/</loc>
+  </url>
+  
+  <url>
     <loc>https://lowess.github.io/transition/info/</loc>
   </url>
   
   <url>
+    <loc>https://lowess.github.io/transition/line-up/jaek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/jank62/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/johan-made-in-graffiti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/jonone/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/la-shoze/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/lady-k/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/lauraine-nti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/lettrage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/lille/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/lyon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/marseille/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/metz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/mg-la-bomba-ovk-aoa-gb-crew/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/miss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/missy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/montpellier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/morlaix-paris/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/motifs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/naste/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/new-york/</loc>
+  </url>
+  
+  <url>
     <loc>https://lowess.github.io/transition/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/oiseaux/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/paris/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/pochoir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/pop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/portrait/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/psy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/psych%C3%A9/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/rasko1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/r%C3%A9alisme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/sak%C3%A9-132-crew/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/scaf-oner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/shupa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/sifat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/siko1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/stom-500/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/categories/strasbourg/</loc>
   </url>
   
   <url>
@@ -71,47 +427,47 @@
   </url>
   
   <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy-2/</loc>
+    <loc>https://lowess.github.io/transition/line-up/tempo/</loc>
   </url>
   
   <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy-3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy-4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy-5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy-6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock-copy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/line-up/tempo-nock/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/transition/anru/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/transition/location/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/transition/transition/project/</loc>
+    <loc>https://lowess.github.io/transition/line-up/termik/</loc>
   </url>
   
   <url>
     <loc>https://lowess.github.io/transition/transition/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/transparence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/tags/typo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/valer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/vincent-pietri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/xkuz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/xzxz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/zag/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lowess.github.io/transition/line-up/zoyer-aoa-twe-gb-crew/</loc>
   </url>
   
 </urlset>
