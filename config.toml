@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Transition | Creative Agency Hugo Template"
+title = "Transition | Musée Ephémère du Street Art"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
