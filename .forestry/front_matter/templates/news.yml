@@ -13,5 +13,3 @@ fields:
   - type: boolean
     name: instagram_caption
     label: instagram_caption
-pages:
-- content/french/news/instapost.md
