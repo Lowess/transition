@@ -71,6 +71,12 @@
 }
 
 .artist-galery{
+  .img-carousel {
+    background-size: 400px;
+    height: 400px;
+    background-repeat: no-repeat no-repeat;
+  }
+
   .img-thumbnail {
     display: block;
     max-width:100%;

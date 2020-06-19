@@ -1,5 +1,18 @@
-.home-line-up {
+#home-content {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $secondary-font;
+    border-radius: 300px 300px 300px 300px;
+  }
+}
 
+.home-line-up {
+  padding-bottom: 30px;
+  color: #fff;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $secondary-font;
+    border-radius: 300px 300px 300px 300px;
+  }
   .home-line-up-artists-top1 a {
     color: $pink;
   }
@@ -7,42 +20,33 @@
   .home-line-up-artists-top2 a {
     color: $blue;
   }
-}
 
-.home-line-up {
-  padding-bottom: 30px;
-  color: #fff;
-  h1, h2, h3, h4, h5, h6 {
-    font-family: $secondary-font;
-    border-radius: 300px 300px 300px 300px;
+  .home-line-up-header {
+    padding: 10px;
+    color: $dark;
+    // background-color: #222;
+    // transform: skew(-20deg);
+    margin: 20px;
+    margin-bottom: 0px;
   }
-}
 
-.home-line-up-header {
-  padding: 10px;
-  color: $dark;
-  // background-color: #222;
-  // transform: skew(-20deg);
-  margin: 20px;
-  margin-bottom: 0px;
-}
+  .home-line-up-artists-top1 {
+    background-color: #fff;
+    margin: auto;
+    width: 90%;
+  }
 
-.home-line-up-artists-top1 {
-  background-color: #fff;
-  margin: auto;
-  width: 90%;
-}
+  .home-line-up-artists-top2 {
+    background-color: #fff;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 20px;
+  }
 
-.home-line-up-artists-top2 {
-  background-color: #fff;
-  margin: auto;
-  width: 80%;
-  margin-bottom: 20px;
-}
-
-.btn-lineup {
-  color: $dark;
-  font-family: $secondary-font;
-  background-color: $yellow;
-  border-color: $yellow;
+  .btn-lineup {
+    color: $dark;
+    font-family: $secondary-font;
+    background-color: $yellow;
+    border-color: $yellow;
+  }
 }
