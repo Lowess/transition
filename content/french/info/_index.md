@@ -20,5 +20,5 @@ Le Quartier du Soleil Levant est aussi un lieu de vie culturelle, connecté au t
 # Plan d'accès
 ---
 
-{{< figure src="/images/info/map.png" width="100%">}}
+{{< figure src="/images/info/map.png" width="100%" >}}
 
