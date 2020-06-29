@@ -18,20 +18,21 @@
 
       <div class="col-md-4">
         <div class="artist-details">
-          <h1><i class="ion-pricetags" style="font-size: 30px;"></i> Syle</h1>
+
+          <hr/>
+          <h2><i class="ion-pricetags"></i> Style</h2>
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{ end }}
 
-          <h1><i class="ion-location" style="font-size: 30px;"></i> Origine</h1>
+          <hr/>
+          <h2><i class="ion-location" style="font-size: 30px;"></i> Origine</h2>
           {{ range (.GetTerms "categories") }}
           <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{ end }}
 
-          <hr />
-
-          <h1>Social</h1>
-          <hr />
+          <hr/>
+          <h2><i class="ion-android-share"></i> Réseaux</h2>
           {{ range .Params.social }}
           <div class="row">
             <a href="{{ .link | safeURL }}" target="blank">
@@ -45,6 +46,8 @@
           </div>
           {{ end }}
         </div>
+
+        <hr/>
       </div>
     </div>
 
