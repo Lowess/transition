@@ -14,14 +14,6 @@ sections:
   match: "_index.md"
 
 - type: directory
-  path: content/french/about
-  label: About
-  create: documents
-  match: "**/*"
-  templates:
-  - about
-
-- type: directory
   path: content/french/info
   label: About
   create: documents
