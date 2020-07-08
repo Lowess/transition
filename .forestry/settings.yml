@@ -2,17 +2,33 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Site
+
 - type: directory
-  path: content/french/news
-  label: News
+  path: content/french/
+  label: Homepage
+  create: documents
+  match: "_index.md"
+
+- type: directory
+  path: content/french/about
+  label: About
   create: documents
   match: "**/*"
   templates:
-  - news
+  - about
+
+- type: directory
+  path: content/french/info
+  label: About
+  create: documents
+  match: "**/*"
+  templates:
+  - info
+
 - type: directory
   path: content/french/line-up
   label: Line-Up
@@ -20,18 +36,32 @@ sections:
   match: "**/*"
   templates:
   - artist
-- type: heading
-  label: Data
+
+
 - type: directory
-  path: data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: i18n
-  label: i18n
+  path: content/french/news
+  label: News
   create: documents
   match: "**/*"
+  templates:
+  - news
+
+- type: directory
+  path: content/french/partners
+  label: Partners
+  create: documents
+  match: "**/*"
+  templates:
+  - partners
+
+- type: directory
+  path: content/french/transition
+  label: Transition
+  create: documents
+  match: "**/*"
+  templates:
+  - transition
+
 - type: heading
   label: Configuration
 - type: directory
