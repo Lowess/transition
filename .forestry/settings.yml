@@ -10,13 +10,13 @@ sections:
 - type: directory
   path: content/french/
   label: Home
-  create: none
+  create: documents
   match: "_index.md"
 
 - type: directory
   path: content/french/info
   label: Infos
-  create: none
+  create: documents
   match: "_index.md"
   templates:
   - info
