@@ -31,8 +31,13 @@
     }
   }
   .copyright{
-    a{
+    a {
       font-weight: 600;
+      color: #ddd;
+
+      &:hover{
+        color: #919191;
+      }
     }
   }
 }

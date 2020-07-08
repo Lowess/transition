@@ -9,7 +9,12 @@
             {{ end }}
 					</ul>
 				</div>
-				<p class="copyright">{{ .Site.Params.copyright | markdownify }}</p>
+				<p class="copyright">
+					{{ .Site.Params.copyright | markdownify }}
+					<br />
+					{{ .Site.Params.author | markdownify }}
+				</p>
+
 			</div>
 		</div>
 	</div>
