@@ -29,7 +29,7 @@ sections:
   path: content/french/news
   label: News
   create: none
-  match: "**/*"
+  match: _index.md
   templates:
   - news
 - type: directory
