@@ -21,6 +21,6 @@ fields:
     name: icon
     label: icon
     description: https://themify.me/themify-icons
-  - type: text
+  - type: file
     name: link
     label: link
