@@ -33,7 +33,7 @@ sections:
 - type: directory
   path: content/french/news
   label: News
-  create: documents
+  create: none
   match: "**/*"
   templates:
   - news
