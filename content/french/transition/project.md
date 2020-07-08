@@ -1,12 +1,11 @@
 ---
-title: "Le Projet"
-description: "this is meta description"
-draft: false
-banner: "images/featue-bg.jpg"
-photo: "images/project/quartier.png"
+title: Le Projet
+description: this is meta description
+banner: "/images/project/quartier.png"
+photo: images/project/quartier.png
 weight: 1
----
 
+---
 Suite à cette nouvelle et fort de notre expérience dans le domaine du street-art et des cultures urbaines en général, nous souhaitons créer un « musée » éphémère dans le bâtiment des tilleuls, un mini skatepark dans la ferme Petit ainsi qu’une réalisation de fresque sur le château d’eau afin de laisser une dernière trace, créer des moments festifs, sportifs & culturels avant sa démolition.
 
 
