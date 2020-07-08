@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: Site
@@ -12,7 +12,7 @@ sections:
   create: none
   match: "*"
   templates:
-    - home
+  - home
 - type: directory
   path: content/french/info
   label: Infos
