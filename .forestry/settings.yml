@@ -10,12 +10,13 @@ sections:
   - type: directory
     path: content/french/
     label: Home
-    create: none
+    create: documents
+    match: "*"
 
   - type: directory
     path: content/french/info
     label: Infos
-    create: none
+    create: documents
     match: "**/*"
     templates:
       - info
@@ -31,7 +32,7 @@ sections:
   - type: directory
     path: content/french/news
     label: News
-    create: none
+    create: documents
     match: "**/*"
     templates:
       - news
@@ -39,14 +40,14 @@ sections:
   - type: directory
     path: content/french/partners
     label: Partners
-    create: none
+    create: documents
     match: "**/*"
     templates:
       - partners
 
   - type: directory
     path: content/french/transition
-    create: none
+    create: documents
     match: "**/*"
     templates:
       - transition
