@@ -15,7 +15,7 @@ sections:
 
 - type: directory
   path: content/french/info
-  label: About
+  label: Info
   create: documents
   match: "**/*"
   templates:
