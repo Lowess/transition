@@ -23,7 +23,7 @@ fields:
     name: name
     label: name
     description: Name of the partner
-  - type: logo
+  - type: text
     name: logo
     label: Logo of the partner
 
