@@ -9,7 +9,7 @@ fields:
   type: file
   label: image
   config:
-    maxSize: 250
+    maxSize: 64
 - type: text
   name: gallery
   label: gallery
