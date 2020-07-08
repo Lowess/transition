@@ -37,6 +37,7 @@ sections:
   label: Partners
   create: none
   match: "**/*"
+  exclude: _index.md
   templates:
   - partners
 - type: directory
@@ -44,8 +45,9 @@ sections:
   label: Transition
   create: none
   match: "**/*"
+  exclude: _index.md
   templates:
-  - transition
+  - project
 - type: heading
   label: Configuration
 - type: directory
