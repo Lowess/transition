@@ -44,7 +44,7 @@ sections:
   - partners
 - type: directory
   path: content/french/transition
-  label: Transition
+  label: Project
   create: none
   match: "**/*"
   exclude: _index.md
