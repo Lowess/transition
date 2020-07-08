@@ -11,13 +11,13 @@ sections:
     path: content/french/
     label: Home
     create: none
-    match: "*"
+    match: "*.md"
 
   - type: directory
     path: content/french/info
     label: Infos
     create: none
-    match: "*"
+    match: "*.md"
     templates:
       - info
 
@@ -33,7 +33,7 @@ sections:
     path: content/french/news
     label: News
     create: none
-    match: "*"
+    match: "*.md"
     templates:
       - news
 
@@ -41,14 +41,14 @@ sections:
     path: content/french/partners
     label: Partners
     create: none
-    match: "*"
+    match: "*.md"
     templates:
       - partners
 
   - type: directory
     path: content/french/transition
     create: none
-    match: "*"
+    match: "*.md"
     templates:
       - transition
 
