@@ -90,7 +90,7 @@ map_latitude = "50.109020"
 map_longitude = "1.850730"
 map_marker = "images/marker.png"
 [params.maintenance]
-enable = true
+enable = false
 image = "images/transition-poster-white.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
