@@ -1,28 +1,97 @@
-################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Transition | Musée Ephémère du Street Art"
-theme = "airspace-hugo"
-# post pagination
-paginate = "4"
-# post excerpt
-summaryLength = "30"
-# disable language
-disableLanguages = []
 defaultContentLanguage = "fr"
-
-[privacy]
-  [privacy.instagram]
-    disable = false
-
-#################################### Maintenance mode ##############################
-
+disableLanguages = []
+paginate = "4"
+summaryLength = "30"
+theme = "airspace-hugo"
+title = "Transition | Musée Ephémère du Street Art"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[menu.footer]]
+URL = "line-up"
+name = "Line-Up"
+weight = 1
+[[menu.footer]]
+URL = "news"
+name = "News"
+weight = 2
+[[menu.footer]]
+URL = "transition"
+name = "Transition"
+weight = 3
+[[menu.footer]]
+URL = "partners"
+name = "Partenaires"
+weight = 4
+[[menu.footer]]
+URL = "info"
+name = "Info"
+weight = 5
+[[menu.main]]
+URL = "line-up"
+name = "Line-Up"
+weight = 2
+[[menu.main]]
+URL = "news"
+name = "News"
+weight = 3
+[[menu.main]]
+URL = "transition"
+hasChildren = true
+name = "Transition"
+weight = 4
+[[menu.main]]
+URL = "transition#project"
+name = "Le project"
+parent = "Transition"
+weight = 1
+[[menu.main]]
+URL = "transition#location"
+name = "Le lieu"
+parent = "Transition"
+weight = 2
+[[menu.main]]
+URL = "transition#anru"
+name = "Le projet ANRU"
+parent = "Transition"
+weight = 3
+[[menu.main]]
+URL = "partners"
+name = "Partenaires"
+weight = 5
+[[menu.main]]
+URL = "info"
+name = "Info"
+weight = 6
+[params]
+author = "[Developed by Florian Dambrine](http://floriandambrine.com/)"
+description = "Ephemeral Street Art Museum"
+email = "transition@gmail.com"
+google_analitycs_id = ""
+location = "Quartier du soleil levant - 80100 Abbeville"
+logo = "images/logo_sm.png"
+mobile = "0124857985320"
+[params.gmap]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+map_latitude = "50.109020"
+map_longitude = "1.850730"
+map_marker = "images/marker.png"
 [params.maintenance]
-enable =  false
+enable = true
 image = "images/transition-poster-white.jpg"
-
-#################################### Plugins ##############################
-
-# CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -31,8 +100,6 @@ link = "plugins/Ionicons/css/ionicons.min.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -45,142 +112,16 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-
-
-############################## navigation ###############################
-
-[[menu.main]]
-name = "Line-Up"
-URL = "line-up"
-weight = 2
-
-[[menu.main]]
-name = "News"
-URL = "news"
-weight = 3
-
-[[menu.main]]
-name = "Transition"
-URL = "transition"
-weight = 4
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Transition"
-  name = "Le project"
-  URL = "transition#project"
-  weight = 1
-
-  [[menu.main]]
-  parent = "Transition"
-  name = "Le lieu"
-  URL = "transition#location"
-  weight = 2
-
-  [[menu.main]]
-  parent = "Transition"
-  name = "Le projet ANRU"
-  URL = "transition#anru"
-  weight = 3
-
-[[menu.main]]
-name = "Partenaires"
-URL = "partners"
-weight = 5
-
-[[menu.main]]
-name = "Info"
-URL = "info"
-weight = 6
-
-# Footer menu
-
-[[menu.footer]]
-name = "Line-Up"
-URL = "line-up"
-weight = 1
-
-[[menu.footer]]
-name = "News"
-URL = "news"
-weight = 2
-
-[[menu.footer]]
-name = "Transition"
-URL = "transition"
-weight = 3
-
-[[menu.footer]]
-name = "Partenaires"
-URL = "partners"
-weight = 4
-
-[[menu.footer]]
-name = "Info"
-URL = "info"
-weight = 5
-
-
-#################### default parameters ################################
-[params]
-logo = "images/logo_sm.png"
-
-# Meta data
-description = "Ephemeral Street Art Museum"
-author = "[Developed by Florian Dambrine](http://floriandambrine.com/)"
-
-# Contact Information
-mobile = "0124857985320"
-email = "transition@gmail.com"
-location = "Quartier du soleil levant - 80100 Abbeville"
-
-# Google Analitycs
-google_analitycs_id = "" # Your ID
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "" # use .png , .svg or .gif format
-
-# search
+preloader = ""
 [params.search]
 enable = true
-
-# google map
-[params.gmap]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "50.109020"
-map_longitude = "1.850730"
-map_marker = "images/marker.png"
-
-
-############################# social site ########################
 [[params.social]]
-icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "ion-social-instagram-outline"
 link = "#"
-
 [[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "ion-social-facebook-outline"
 link = "#"
-
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"
+[privacy.instagram]
+disable = false
