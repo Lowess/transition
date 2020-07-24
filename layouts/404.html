@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<section class="page-404">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <a href="index.html">
+          <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" class="img-responsive">
+        </a>
+        <h1>404</h1>
+        <h2>Page Not Found</h2>
+        <a href="index.html" class="btn btn-main"><i class="tf-ion-android-arrow-back"></i> Go Home</a>
+        <p class="copyright">
+          {{ .Site.Params.copyright | markdownify }}
+          <br />
+          {{ .Site.Params.author | markdownify }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
