@@ -13,7 +13,7 @@ fields:
   type: tag_list
 - name: banner
   type: file
-  label: image
+  label: banner
   config:
     maxSize: 64
 - name: gallery
