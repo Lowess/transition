@@ -4,7 +4,7 @@ categories:
 - paris
 tags: []
 promoted: 0
-banner: "/images/artists/2flui/union.jpeg"
+banner: "/images/artists/2flui/banner.png"
 gallery:
 - "/images/artists/2flui/banner.png"
 - "/images/artists/2flui/union.jpeg"
