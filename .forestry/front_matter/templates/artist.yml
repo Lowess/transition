@@ -2,25 +2,46 @@
 label: Artist
 hide_body: false
 fields:
-- type: text
-  name: title
+- name: title
   label: title
+  type: text
+
+- name: categories
+  label: lieu
+  type: tag_list
+
+- name: tags
+  label: tags
+  type: tag_list
+
+- name: promoted
+  label: promoted
+  type: number
+
 - name: banner
   type: file
   label: image
   config:
     maxSize: 64
-- type: text
-  name: gallery
-  label: gallery
+
+- name: gallery
+  type: field_group_list
+  fields:
+    type: file
+    label: image
+    config:
+      maxSize: 64
+
 - type: field_group_list
   name: social
   label: social
   fields:
+
   - type: text
     name: icon
     label: icon
     description: https://themify.me/themify-icons
+
   - type: file
     name: link
     label: link

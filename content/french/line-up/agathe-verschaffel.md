@@ -4,13 +4,13 @@ categories: ['calais']
 tags: ['réalisme']
 promoted: 0
 banner: images/artists/agathe-verschaffel/banner.jpg
-draft: false
-gallery: agathe-verschaffel
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

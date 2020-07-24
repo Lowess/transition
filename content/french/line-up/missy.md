@@ -4,13 +4,13 @@ categories: ['strasbourg']
 tags: ['illustration', 'oiseaux']
 promoted: 0
 banner: images/artists/missy/banner.jpg
-draft: false
-gallery: missy
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

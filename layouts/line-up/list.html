@@ -14,9 +14,9 @@
         <div class="col-md-3">
           <div class="artist-card">
             <a href="{{ .URL }}">
-              {{ $artistBanner := .Params.Image }}
+              {{ $artistBanner := .Params.Banner }}
               {{ if (fileExists (printf "static/%s" $artistBanner)) -}}
-                <div class="artist-card-img" style="background-image:url({{ $artistBanner | relURL }});"></div>
+                <div class="artist-card-img" style="background-image:url({{ $artistBanner | absURL }});"></div>
               {{ else }}
                 <div class="artist-card-img" style='background-position: top; background-color: white; background-size: 300px; background-image:url({{ "images/artists/default/banner.png" | relURL }});'></div>
               {{- end }}

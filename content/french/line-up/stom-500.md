@@ -4,13 +4,13 @@ categories: ['strasbourg']
 tags: []
 promoted: 0
 banner: images/artists/stom-500/banner.jpg
-draft: false
-gallery: stom-500
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

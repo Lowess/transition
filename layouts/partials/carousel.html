@@ -2,10 +2,10 @@
 
 <div class="row">
   {{ range .images }}
-    <div class="col-md-4 artist-galery">
-      <div class="img-carousel" style="background-image:url({{ printf "%s/%s" $root .Name | absURL }});"></div>
-
-      <!-- <img src="{{ (printf "%s/%s" $root .Name | absURL) }}" class="img-thumbnail" /> -->
-    </div>
+    {{ if (fileExists (printf "static/%s" .)) -}}
+      <div class="col-md-4 artist-galery">
+        <div class="img-carousel" style="background-image:url({{ . | absURL }});"></div>
+      </div>
+    {{ end }}
 {{ end }}
 </div>

@@ -4,13 +4,13 @@ categories: ['etaples']
 tags: []
 promoted: 0
 banner: images/artists/dr.wozer---aoa-lbn-bmk-crew/banner.jpg
-draft: false
-gallery: dr.wozer---aoa-lbn-bmk-crew
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

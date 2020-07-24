@@ -4,13 +4,13 @@ categories: ['aurillac']
 tags: ['pochoir', 'collage']
 promoted: 0
 banner: images/artists/xzxz/banner.jpg
-draft: false
-gallery: xzxz
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

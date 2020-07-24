@@ -4,13 +4,13 @@ categories: ['EU la ville soeur']
 tags: ['réalisme']
 promoted: 0
 banner: images/artists/johan-made-in-graffiti/banner.jpg
-draft: false
-gallery: johan-made-in-graffiti
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

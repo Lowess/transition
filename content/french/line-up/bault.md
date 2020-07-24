@@ -4,13 +4,13 @@ categories: ['montpellier']
 tags: ['illustration']
 promoted: 0
 banner: images/artists/bault/banner.jpg
-draft: false
-gallery: bault
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

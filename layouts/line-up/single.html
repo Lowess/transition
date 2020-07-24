@@ -8,7 +8,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        {{ $artistBanner := .Params.Image }}
+        {{ $artistBanner := .Params.Banner }}
         {{ if (fileExists (printf "static/%s" $artistBanner)) -}}
           <img class="img-responsive w-100" src="{{ $artistBanner | relURL }}" alt="">
         {{ else }}
@@ -64,12 +64,7 @@
         <div class="artist-details">
           <h1>Galerie</h1>
           <div class="row">
-            {{ $artistPicturesPath := (printf "%s/%s" .Params.lineUpGallery .Params.gallery) }}
-
-            {{ if (fileExists (printf "static/%s" .Params.image)) -}}
-              {{ $artistPictures :=  readDir (printf "static/%s" $artistPicturesPath) }}
-              {{ partial "carousel.html" (dict "root" $artistPicturesPath "images" $artistPictures) }}
-            {{- end }}
+            {{ partial "carousel.html" (dict "images" .Params.Gallery) }}
           </div>
         </div>
       </div>

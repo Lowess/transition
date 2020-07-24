@@ -4,13 +4,13 @@ categories: ['paris']
 tags: ['psyché']
 promoted: 0
 banner: images/artists/bebar/banner.jpg
-draft: false
-gallery: bebar
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

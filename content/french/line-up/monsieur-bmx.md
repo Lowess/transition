@@ -1,9 +1,9 @@
 ---
-title: "DANTE"
-categories: ['paris']
-tags: ['illustration', 'typo']
+title: "Monsieur BMX"
+categories: ['montpellier']
+tags: ['installation']
 promoted: 0
-banner: images/artists/dante/banner.jpg
+banner: images/artists/monsieur-bmx/banner.jpg
 gallery: []
 social:
   - icon : "ion-social-facebook-outline"
@@ -16,4 +16,4 @@ draft: false
 # Biography
 ---
 
-**DANTE**
+**Monsieur BMX**

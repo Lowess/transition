@@ -4,13 +4,13 @@ categories: ['morlaix-paris']
 tags: ['anamorphose']
 promoted: 0
 banner: images/artists/anje/banner.jpg
-draft: false
-gallery: anje
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

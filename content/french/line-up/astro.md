@@ -4,13 +4,13 @@ categories: ['paris']
 tags: ['anamorphose']
 promoted: 0
 banner: images/artists/astro/banner.jpg
-draft: false
-gallery: astro
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

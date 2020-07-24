@@ -4,13 +4,13 @@ categories: ['paris']
 tags: ['graffiti']
 promoted: 0
 banner: images/artists/dize/banner.jpg
-draft: false
-gallery: dize
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography

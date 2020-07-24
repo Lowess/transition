@@ -2,15 +2,15 @@
 title: "JONONE"
 categories: ['new-york', 'paris']
 tags: ['graffiti', 'abstrait']
-promoted: 100
+promoted: 0
 banner: images/artists/jonone/banner.jpg
-draft: false
-gallery: jonone
+gallery: []
 social:
   - icon : "ion-social-facebook-outline"
     link : "#"
   - icon : "ion-social-twitter-outline"
     link : "#"
+draft: false
 ---
 
 # Biography
