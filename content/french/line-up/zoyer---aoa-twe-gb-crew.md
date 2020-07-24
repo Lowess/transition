@@ -1,18 +1,20 @@
 ---
-title: "Zoyer - AOA TWE GB Crew"
-categories: ['paris']
+title: Zoyer - AOA TWE GB Crew
+categories:
+- paris
 tags: []
 promoted: 0
-banner: images/artists/zoyer---aoa-twe-gb-crew/banner.jpg
-gallery: []
+banner: "/images/artists/2flui/union.jpeg"
+gallery:
+- "/images/artists/2flui/banner.png"
+- "/images/artists/2flui/union.jpeg"
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- icon: ion-social-facebook-outline
+  link: "#"
+- icon: ion-social-twitter-outline
+  link: "#"
 
+---
 # Biography
 ---
 
