@@ -4,7 +4,7 @@
   {{ range .images }}
     {{ if (fileExists (printf "static/%s" .)) -}}
       <div class="col-md-4 artist-galery">
-        <div class="img-carousel" style="background-image:url({{ . | absURL }});"></div>
+        <div class="img-carousel" style="background-image:url({{ . | relURL }});"></div>
       </div>
     {{ end }}
 {{ end }}
