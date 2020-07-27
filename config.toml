@@ -1,4 +1,4 @@
-baseURL = "https://www.transition-espace-ephemere.com"
+baseURL = "http://www.transition-espace-ephemere.com"
 defaultContentLanguage = "fr"
 disableLanguages = []
 paginate = "4"
