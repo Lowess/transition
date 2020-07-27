@@ -38,3 +38,5 @@ fields:
     config:
       required: false
     label: link
+pages:
+- content/french/line-up/yann.md
