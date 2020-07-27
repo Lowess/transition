@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amiens on Transition | Musée Ephémère du Street Art</title>
-    <link>https://lowess.github.io/transition/categories/amiens/</link>
+    <link>http://www.transition-espace-ephemere.com/categories/amiens/</link>
     <description>Recent content in Amiens on Transition | Musée Ephémère du Street Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
     
-	<atom:link href="https://lowess.github.io/transition/categories/amiens/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.transition-espace-ephemere.com/categories/amiens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La Shoze</title>
-      <link>https://lowess.github.io/transition/line-up/la-shoze/</link>
+      <link>http://www.transition-espace-ephemere.com/line-up/la-shoze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lowess.github.io/transition/line-up/la-shoze/</guid>
+      <guid>http://www.transition-espace-ephemere.com/line-up/la-shoze/</guid>
       <description>Biography  La Shoze</description>
     </item>
     
     <item>
       <title>TERMIK</title>
-      <link>https://lowess.github.io/transition/line-up/termik/</link>
+      <link>http://www.transition-espace-ephemere.com/line-up/termik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lowess.github.io/transition/line-up/termik/</guid>
+      <guid>http://www.transition-espace-ephemere.com/line-up/termik/</guid>
       <description>Biography  TERMIK</description>
     </item>
     

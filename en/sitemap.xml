@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lowess.github.io/transition/en/categories/</loc>
+    <loc>http://www.transition-espace-ephemere.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/transition/categories/"
+                href="http://www.transition-espace-ephemere.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/transition/en/categories/"
+                href="http://www.transition-espace-ephemere.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/transition/en/tags/</loc>
+    <loc>http://www.transition-espace-ephemere.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/transition/tags/"
+                href="http://www.transition-espace-ephemere.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/transition/en/tags/"
+                href="http://www.transition-espace-ephemere.com/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/transition/en/</loc>
+    <loc>http://www.transition-espace-ephemere.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/transition/"
+                href="http://www.transition-espace-ephemere.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/transition/en/"
+                href="http://www.transition-espace-ephemere.com/en/"
                 />
   </url>
   

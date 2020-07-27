@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos Partenaires on Transition | Musée Ephémère du Street Art</title>
-    <link>https://lowess.github.io/transition/partners/</link>
+    <link>http://www.transition-espace-ephemere.com/partners/</link>
     <description>Recent content in Nos Partenaires on Transition | Musée Ephémère du Street Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
     
-	<atom:link href="https://lowess.github.io/transition/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.transition-espace-ephemere.com/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Partenaires opérationels</title>
-      <link>https://lowess.github.io/transition/partners/operational/</link>
+      <link>http://www.transition-espace-ephemere.com/partners/operational/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lowess.github.io/transition/partners/operational/</guid>
+      <guid>http://www.transition-espace-ephemere.com/partners/operational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partenaires financiers</title>
-      <link>https://lowess.github.io/transition/partners/financial/</link>
+      <link>http://www.transition-espace-ephemere.com/partners/financial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lowess.github.io/transition/partners/financial/</guid>
+      <guid>http://www.transition-espace-ephemere.com/partners/financial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partenaires médiatiques</title>
-      <link>https://lowess.github.io/transition/partners/media/</link>
+      <link>http://www.transition-espace-ephemere.com/partners/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lowess.github.io/transition/partners/media/</guid>
+      <guid>http://www.transition-espace-ephemere.com/partners/media/</guid>
       <description></description>
     </item>
     
