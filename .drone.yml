@@ -27,12 +27,18 @@ steps:
 
   - name: display_urls
     image: lowess/drone-tabulate
+    environment:
+      <<: *hugo_env
     settings:
       headers:
         - URL
       rows:
         -
-          - <<: *hugo_env
+          - "Github IO"
+          - https://${DRONE_REPO_OWNER,,}.github.io/${DRONE_REPO_NAME}/
+        -
+          - "Custom Domain"
+          - $BASE_URL
 
     when:
       branch: master
