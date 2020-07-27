@@ -1,6 +1,6 @@
 ---
 hugo_env: &hugo_env
-  BASE_URL: http://www.transition-espace-ephemere.com
+  BASE_URL: https://www.transition-espace-ephemere.com
 
 
 kind: pipeline
