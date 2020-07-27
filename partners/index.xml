@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nos Partenaires on Transition | Musée Ephémère du Street Art</title>
-    <link>http://www.transition-espace-ephemere.com/partners/</link>
+    <link>https://www.transition-espace-ephemere.com/partners/</link>
     <description>Recent content in Nos Partenaires on Transition | Musée Ephémère du Street Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
     
-	<atom:link href="http://www.transition-espace-ephemere.com/partners/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.transition-espace-ephemere.com/partners/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Partenaires opérationels</title>
-      <link>http://www.transition-espace-ephemere.com/partners/operational/</link>
+      <link>https://www.transition-espace-ephemere.com/partners/operational/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.transition-espace-ephemere.com/partners/operational/</guid>
+      <guid>https://www.transition-espace-ephemere.com/partners/operational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partenaires financiers</title>
-      <link>http://www.transition-espace-ephemere.com/partners/financial/</link>
+      <link>https://www.transition-espace-ephemere.com/partners/financial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.transition-espace-ephemere.com/partners/financial/</guid>
+      <guid>https://www.transition-espace-ephemere.com/partners/financial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Partenaires médiatiques</title>
-      <link>http://www.transition-espace-ephemere.com/partners/media/</link>
+      <link>https://www.transition-espace-ephemere.com/partners/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.transition-espace-ephemere.com/partners/media/</guid>
+      <guid>https://www.transition-espace-ephemere.com/partners/media/</guid>
       <description></description>
     </item>
     

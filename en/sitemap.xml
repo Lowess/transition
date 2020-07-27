@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.transition-espace-ephemere.com/en/categories/</loc>
+    <loc>https://www.transition-espace-ephemere.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.transition-espace-ephemere.com/categories/"
+                href="https://www.transition-espace-ephemere.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.transition-espace-ephemere.com/en/categories/"
+                href="https://www.transition-espace-ephemere.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.transition-espace-ephemere.com/en/tags/</loc>
+    <loc>https://www.transition-espace-ephemere.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.transition-espace-ephemere.com/tags/"
+                href="https://www.transition-espace-ephemere.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.transition-espace-ephemere.com/en/tags/"
+                href="https://www.transition-espace-ephemere.com/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.transition-espace-ephemere.com/en/</loc>
+    <loc>https://www.transition-espace-ephemere.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.transition-espace-ephemere.com/"
+                href="https://www.transition-espace-ephemere.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.transition-espace-ephemere.com/en/"
+                href="https://www.transition-espace-ephemere.com/en/"
                 />
   </url>
   
