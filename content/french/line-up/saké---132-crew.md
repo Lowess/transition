@@ -13,7 +13,7 @@ social:
 draft: false
 ---
 
-# Biography
+# Biographie
 ---
 
 **Saké - 132 Crew**

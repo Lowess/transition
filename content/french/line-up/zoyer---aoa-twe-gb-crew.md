@@ -15,7 +15,7 @@ social:
   link: "#"
 
 ---
-# Biography
+# Biographie
 ---
 
 **Zoyer - AOA TWE GB Crew**

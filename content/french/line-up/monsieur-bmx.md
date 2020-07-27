@@ -14,7 +14,7 @@ social:
   link: "#"
 
 ---
-# Biography
+# Biographie
 ---
 
 **Monsieur BMX**

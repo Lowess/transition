@@ -13,7 +13,7 @@ social:
 draft: false
 ---
 
-# Biography
+# Biographie
 ---
 
 **JOHAN made in graffiti**

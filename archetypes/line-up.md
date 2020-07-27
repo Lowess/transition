@@ -13,7 +13,7 @@ social:
     link : "#"
 ---
 
-# Biography
+# Biographie
 ---
 
 **{{ replace .Name "-" " " | title }}**

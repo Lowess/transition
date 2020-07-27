@@ -13,7 +13,7 @@ social:
 draft: false
 ---
 
-# Biography
+# Biographie
 ---
 
 **MG la bomba - OVK AOA GB Crew**

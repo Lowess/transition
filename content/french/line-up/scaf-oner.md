@@ -14,7 +14,7 @@ social:
   link: "#"
 
 ---
-# Biography
+# Biographie
 ---
 
 **SCAF-ONER**

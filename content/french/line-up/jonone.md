@@ -16,7 +16,7 @@ social:
   link: "#"
 
 ---
-# Biography
+# Biographie
 ---
 
 **JONONE**

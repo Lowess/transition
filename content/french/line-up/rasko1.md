@@ -14,7 +14,7 @@ social:
   link: "#"
 
 ---
-# Biography
+# Biographie
 ---
 
 **Rasko1**

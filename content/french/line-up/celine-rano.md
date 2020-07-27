@@ -13,7 +13,7 @@ social:
 draft: false
 ---
 
-# Biography
+# Biographie
 ---
 
 **CELINE RANO**
