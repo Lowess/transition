@@ -1,11 +1,15 @@
 ---
+hugo_env: &hugo_env
+  BASE_URL: http://www.transition-espace-ephemere.com
+
+
 kind: pipeline
 name: hugo-website
 steps:
   - name: hugo-build
     image: peaceiris/hugo:v0.65.3-mod
     environment:
-      BASE_URL: https://${DRONE_REPO_OWNER,,}.github.io/${DRONE_REPO_NAME}/
+      <<: *hugo_env
     commands:
       - hugo --baseURL $BASE_URL
 
@@ -28,6 +32,7 @@ steps:
         - URL
       rows:
         -
-          - https://${DRONE_REPO_OWNER,,}.github.io/${DRONE_REPO_NAME}
+          - <<: *hugo_env
+
     when:
       branch: master
