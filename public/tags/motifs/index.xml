@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>motifs on Transition | Musée Ephémère du Street Art</title>
+    <link>https://examplesite.com/tags/motifs/</link>
+    <description>Recent content in motifs on Transition | Musée Ephémère du Street Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
+    
+	<atom:link href="https://examplesite.com/tags/motifs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BOB 59</title>
+      <link>https://examplesite.com/line-up/bob-59/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/line-up/bob-59/</guid>
+      <description>Biography  BOB 59</description>
+    </item>
+    
+    <item>
+      <title>CELINE RANO</title>
+      <link>https://examplesite.com/line-up/celine-rano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/line-up/celine-rano/</guid>
+      <description>Biography  CELINE RANO</description>
+    </item>
+    
+    <item>
+      <title>SIFAT</title>
+      <link>https://examplesite.com/line-up/sifat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/line-up/sifat/</guid>
+      <description>Biography  SIFAT</description>
+    </item>
+    
+  </channel>
+</rss>
