@@ -5,6 +5,16 @@ fields:
 - name: title
   label: title
   type: text
+- name: promoted
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: promoted
 - name: categories
   label: lieu
   type: tag_list
