@@ -6,11 +6,9 @@
 {{ partial "line-up" . }}
 
 <div class="container-fluid row">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row justify-content-center">
-      <div class="col-2 col-sm-2"></div>
-      <div class="col-sm-8 col-8 order-sm-8 order-3"><img src="{{ .Params.poster | relURL }}" class="img-responsive" /></div>
-      <div class="col-2 col-sm-2 order-sm-2 order-2"></div>
+      <img src="{{ .Params.poster | relURL }}" class="img-responsive w-100" />
     </div>
   </div>
 </div>
