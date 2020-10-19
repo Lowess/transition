@@ -91,7 +91,7 @@ map_longitude = "1.850730"
 map_marker = "images/marker.png"
 [params.maintenance]
 enable = false
-image = "images/affiche-transition-nodate.jpg"
+image = "images/affiche-coming-soon-01.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
