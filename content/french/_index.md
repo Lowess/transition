@@ -1,6 +1,6 @@
 ---
 title: ''
-banner: images/banniere2.jpg
+banner: images/b3.jpg
 poster: images/affiche-transition-nodate.jpg
 
 ---
