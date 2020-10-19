@@ -11,13 +11,9 @@
     {{ end }}
     {{ $promotedArtists := sort $promotedArtists ".Params.promoted" "desc"}}
 
-    <!-- <h1 class="home-line-up-header">
-      {{ partial "page-title.html" . }}
-    </h1> -->
-
     <!-- Display Top 10 most important -->
-    <ul class="home-line-up-artists-top1 list-inline">
-      {{ $topN := 10 }}
+    <ul class="home-line-up-artists list-inline">
+      {{ $topN := 100 }}
       {{ range $index, $page := first $topN $promotedArtists }}
         {{ $separator := "-"  }}
         {{ if eq (add 1 $index) (len (first $topN $promotedArtists)) }}
@@ -25,31 +21,10 @@
         {{ end }}
 
         <li class="list-inline-item">
-          <a href="{{ .Permalink }}">
-            <h1>
-              {{ .Title }} {{ $separator }}
-            </h1>
-          </a>
+          <h1>
+              <a href="{{ .Permalink }}">{{ .Title }}</a> {{ $separator }}
+          </h1>
         </li>
-      {{ end }}
-    </ul>
-
-    <!-- Display Top 10 to 20 most important -->
-    <ul class="home-line-up-artists-top2 list-inline">
-      {{ $topN := 10 }}
-      {{ range $index, $page := first $topN (after $topN $promotedArtists) }}
-      {{ $separator := "-"  }}
-      {{ if eq (add 1 $index) (len (first $topN $promotedArtists)) }}
-      {{ $separator = ""  }}
-      {{ end }}
-
-      <li class="list-inline-item">
-        <a href="{{ .Permalink }}">
-          <h2>
-            {{ .Title }} {{ $separator }}
-          </h2>
-        </a>
-      </li>
       {{ end }}
     </ul>
 
