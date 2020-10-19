@@ -9,3 +9,7 @@ fields:
   name: banner
   label: banner
   description: page header background image
+- type: file
+  name: poster
+  label: poster
+  description: affiche transition

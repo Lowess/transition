@@ -7,9 +7,7 @@ banner: images/artists/{{ replace .Name "-" " " | lower }}/banner.jpg
 draft: false
 gallery: {{ lower .Name }}
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
+  - icon : "ion-social-instagram-outline"
     link : "#"
 ---
 

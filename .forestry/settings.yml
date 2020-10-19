@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Site
@@ -36,7 +36,7 @@ sections:
   - news
 - type: directory
   path: content/french/partners
-  label: Partners
+  label: Partenaires
   create: none
   match: "**/*"
   exclude: _index.md
@@ -44,7 +44,7 @@ sections:
   - partners
 - type: directory
   path: content/french/transition
-  label: Project
+  label: Projet
   create: none
   match: "**/*"
   exclude: _index.md
