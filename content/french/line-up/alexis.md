@@ -1,7 +1,6 @@
 +++
 banner = "/images/artists/2flui/banner.png"
 categories = ["paris"]
-draft = true
 gallery = ["/images/artists/2flui/banner.png", "/images/artists/2flui/union.jpeg"]
 promoted = 0
 tags = []
