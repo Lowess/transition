@@ -1,6 +1,18 @@
 <!--line-up -->
 <section class="home-line-up">
-  {{ partial "page-title.html" . }}
+  <section class="page-title bg-2" style="background-image: url('{{.Params.banner | relURL}}');">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="block">
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Params.Description }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
   <div class="container-fluid text-center">
     {{ $promotedArtists := slice }}
@@ -9,7 +21,7 @@
         {{ $promotedArtists = $promotedArtists | append . }}
       {{ end }}
     {{ end }}
-    {{ $promotedArtists := sort $promotedArtists ".Params.promoted" "desc"}}
+    {{ $promotedArtists := sort $promotedArtists ".Title" "asc"}}
 
     <!-- Display Top 10 most important -->
     <ul class="home-line-up-artists list-inline">
