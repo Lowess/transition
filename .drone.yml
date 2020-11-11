@@ -11,7 +11,8 @@ steps:
     environment:
       <<: *hugo_env
     commands:
-      - hugo --baseURL $BASE_URL && break
+      - hugo --baseURL $BASE_URL
+      - ls -al public/
 
   - name: publish-website
     image: plugins/gh-pages
