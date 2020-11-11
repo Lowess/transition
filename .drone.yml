@@ -12,12 +12,12 @@ steps:
       <<: *hugo_env
     commands:
       - n=0
-        until [ "$n" -ge 5 ]
-        do
-          hugo --baseURL $BASE_URL && break
-          n=$((n+1))
-          sleep 15
-        done
+      - until [ "$n" -ge 5 ]
+      - do
+      - hugo --baseURL $BASE_URL && break
+      - n=$((n+1))
+      - sleep 2
+      - done
 
   - name: publish-website
     image: plugins/gh-pages
