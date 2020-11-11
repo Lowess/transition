@@ -123,5 +123,10 @@ link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
+
+[params.instagram]
+appid = "..."
+token = "..."
+
 [privacy.instagram]
 disable = false

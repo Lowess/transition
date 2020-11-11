@@ -8,14 +8,15 @@
 <section class="news-feed">
   <div class="container ">
     <div class="row spacer">
+
+      {{ $accessToken := (printf "%s|%s" .Site.Params.instagram.appid .Site.Params.instagram.token) }}
       {{ range .Params.news }}
       <div class="col-md-4">
         {{ $id := .instagram_post }}
+        {{ $id := replaceRE "^(?:https?://)?(?:www.)?(?:instagram.com/p/)?([^/]+).*/?$" "$1" $id }}
         {{ $hideCaption := not .instagram_caption | default true }}
+        {{ with getJSON "https://graph.facebook.com/v8.0/instagram_oembed/?url=https://instagram.com/p/" $id "/&hidecaption=" $hideCaption "&access_token=" $accessToken }}{{ .html | safeHTML }}{{ end }}
 
-      {{ $id := replaceRE "^(?:https?://)?(?:www.)?(?:instagram.com/p/)?([^/]+).*/?$" "$1" $id }}
-
-      {{ with getJSON "https://api.instagram.com/instagram_oembed/?url=https://instagram.com/p/" $id "/&hidecaption=" $hideCaption  }}{{ .html | safeHTML }}{{ end }}
       </div>
     {{ end }}
     </div>

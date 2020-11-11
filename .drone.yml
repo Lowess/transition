@@ -1,7 +1,10 @@
 ---
 hugo_env: &hugo_env
+  HUGO_PARAMS_INSTAGRAM_APPID:
+    from_secret: fb_appid
+  HUGO_PARAMS_INSTAGRAM_TOKEN:
+    from_secret: fb_token
   BASE_URL: https://www.transition-espace-ephemere.com
-
 
 kind: pipeline
 name: hugo-website
