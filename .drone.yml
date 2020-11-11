@@ -11,7 +11,6 @@ steps:
     environment:
       <<: *hugo_env
     commands:
-      - curl -L -XGET "https://api.instagram.com/oembed/?url=https://instagram.com/p/CGevN3lplcp/&hidecaption=true"
       - hugo --baseURL $BASE_URL
       - ls -al public/
 

@@ -15,7 +15,7 @@
 
       {{ $id := replaceRE "^(?:https?://)?(?:www.)?(?:instagram.com/p/)?([^/]+).*/?$" "$1" $id }}
 
-      {{ with getJSON "https://api.instagram.com/oembed/?url=https://instagram.com/p/" $id "/&hidecaption=" $hideCaption  }}{{ .html | safeHTML }}{{ end }}
+      {{ with getJSON "https://api.instagram.com/instagram_oembed/?url=https://instagram.com/p/" $id "/&hidecaption=" $hideCaption  }}{{ .html | safeHTML }}{{ end }}
       </div>
     {{ end }}
     </div>
