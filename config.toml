@@ -89,8 +89,11 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYS
 map_latitude = "50.109020"
 map_longitude = "1.850730"
 map_marker = "images/marker.png"
+[params.instagram]
+appid = "..."
+token = "..."
 [params.maintenance]
-enable = true
+enable = false
 image = "images/affiche-coming-soon-01.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -123,10 +126,5 @@ link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
-
-[params.instagram]
-appid = "..."
-token = "..."
-
 [privacy.instagram]
 disable = false
