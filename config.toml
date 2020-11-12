@@ -93,7 +93,7 @@ map_marker = "images/marker.png"
 appid = "..."
 token = "..."
 [params.maintenance]
-enable = false
+enable = true
 image = "images/affiche-coming-soon-01.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
