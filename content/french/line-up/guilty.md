@@ -7,11 +7,8 @@ promoted = 0
 tags = ["pochoir", "collage"]
 title = "GUILTY"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
 icon = "ion-social-twitter-outline"
-link = "#"
+link = "#https://www.instagram.com/guiltyoner/"
 
 +++
 # Biographie
