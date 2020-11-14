@@ -1,6 +1,6 @@
 ---
 title: Le Projet
-description: this is meta description
+description: ''
 banner: "/images/project/quartier.png"
 photo: images/project/quartier.png
 weight: 1
