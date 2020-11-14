@@ -41,5 +41,3 @@ fields:
     config:
       required: false
     label: Lien
-pages:
-- content/french/line-up/yann.md
