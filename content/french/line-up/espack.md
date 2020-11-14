@@ -12,10 +12,7 @@ gallery:
 - images/capture-d-ecran-2020-11-05-a-13-23-22.png
 - images/_garage_.jpg
 social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
+- link: https://www.instagram.com/espakuspokus/
 
 ---
 # Biographie
