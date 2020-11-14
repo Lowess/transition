@@ -1,20 +1,16 @@
 +++
 banner = "images/artists/dante/banner.jpg"
 categories = ["paris"]
-draft = true
 gallery = []
 promoted = 0
-tags = ["illustration", "typo"]
+tags = ["illustration"]
 title = "PIMAN"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://www.instagram.com/piman50cl"
 
 +++
 # Biographie
----
 
-**DANTE**
+***
+
+**PIMAN**
