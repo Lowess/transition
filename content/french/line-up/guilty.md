@@ -1,7 +1,6 @@
 +++
 banner = "images/artists/xzxz/banner.jpg"
 categories = ["aurillac"]
-draft = true
 gallery = []
 promoted = 0
 tags = ["pochoir", "collage"]
