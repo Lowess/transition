@@ -1,20 +1,16 @@
 +++
 banner = "/images/artists/2flui/banner.png"
-categories = ["paris"]
-draft = true
+categories = []
 gallery = ["/images/artists/2flui/banner.png", "/images/artists/2flui/union.jpeg"]
 promoted = 0
 tags = []
 title = "KYOÔ"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://www.instagram.com/k_yoo_caillou_art/"
 
 +++
 # Biographie
----
 
-**Zoyer - AOA TWE GB Crew**
+***
+
+**KYOÔ**
