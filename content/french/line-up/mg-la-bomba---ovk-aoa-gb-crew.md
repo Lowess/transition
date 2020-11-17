@@ -1,7 +1,6 @@
 ---
 title: "MG la bomba - OVK AOA GB Crew"
 categories: ['bruxelles']
-tags: []
 promoted: 0
 banner: images/artists/mg-la-bomba---ovk-aoa-gb-crew/banner.jpg
 gallery: []

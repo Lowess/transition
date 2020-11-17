@@ -1,7 +1,6 @@
 ---
 title: "CELINE RANO"
 categories: ['paris']
-tags: ['motifs', 'illustration']
 promoted: 0
 banner: images/artists/celine-rano/banner.jpg
 gallery: []

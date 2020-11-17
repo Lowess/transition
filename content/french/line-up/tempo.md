@@ -2,9 +2,6 @@
 title: TEMPO
 categories:
 - paris
-tags:
-- réalisme
-- transparence
 promoted: 90
 banner: images/artists/tempo/banner.jpg
 gallery: []

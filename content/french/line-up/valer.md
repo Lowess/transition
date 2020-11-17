@@ -1,7 +1,6 @@
 ---
 title: "Valer"
 categories: ['strasbourg']
-tags: ['graffiti']
 promoted: 0
 banner: images/artists/valer/banner.jpg
 gallery: []

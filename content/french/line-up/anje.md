@@ -1,7 +1,6 @@
 ---
 title: "ANJE"
 categories: ['morlaix-paris']
-tags: ['anamorphose']
 promoted: 0
 banner: images/artists/anje/banner.jpg
 gallery: []

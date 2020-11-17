@@ -2,8 +2,6 @@
 title: Espack
 categories:
 - Lille
-tags:
-- graffiti
 promoted: 0
 banner: images/artists/espack/banner.jpg
 gallery:

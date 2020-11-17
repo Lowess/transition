@@ -1,7 +1,6 @@
 ---
 title: "Psy"
 categories: ['paris']
-tags: ['graffiti']
 promoted: 0
 banner: images/artists/psy/banner.jpg
 gallery: []

@@ -5,6 +5,7 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 title = "Transition | Musée Ephémère du Street Art"
+ignoreErrors = ["error-remote-getjson"]
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved"

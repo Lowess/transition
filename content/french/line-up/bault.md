@@ -1,9 +1,6 @@
 ---
 title: Bault
-categories:
-- montpellier
-tags:
-- illustration
+categories: ["montpellier"]
 promoted: 0
 banner: images/artists/bault/banner.jpg
 gallery: []

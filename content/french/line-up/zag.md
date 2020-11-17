@@ -1,7 +1,6 @@
 ---
 title: "ZAG"
 categories: ['morlaix-paris']
-tags: ['anamorphose']
 promoted: 0
 banner: images/artists/zag/banner.jpg
 gallery: []

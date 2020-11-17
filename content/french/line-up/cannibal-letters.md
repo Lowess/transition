@@ -1,7 +1,6 @@
 ---
 title: "CANNIBAL LETTERS"
 categories: ['paris']
-tags: ['illustration', 'typo']
 promoted: 0
 banner: images/artists/cannibal-letters/banner.jpg
 gallery: []

@@ -2,8 +2,6 @@
 title: SCAF-ONER
 categories:
 - metz
-tags:
-- anamorphose
 promoted: 90
 banner: images/artists/scaf-oner/banner.jpg
 gallery: []

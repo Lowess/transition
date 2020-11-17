@@ -1,7 +1,6 @@
 ---
 title: "Vincent Pietri"
 categories: ['aurillac']
-tags: []
 promoted: 0
 banner: images/artists/vincent-pietri/banner.jpg
 gallery: []

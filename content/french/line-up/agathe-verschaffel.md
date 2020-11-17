@@ -1,9 +1,6 @@
 ---
 title: AGATHE VERSCHAFFEL
-categories:
-- calais
-tags:
-- réalisme
+categories: ['calais']
 promoted: 0
 banner: images/artists/agathe-verschaffel/banner.jpg
 gallery: []

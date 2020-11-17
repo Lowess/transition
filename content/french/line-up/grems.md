@@ -1,7 +1,6 @@
 ---
 title: "GREMS"
 categories: ['biarritz']
-tags: ['post', 'graffiti']
 promoted: 0
 banner: images/artists/grems/banner.jpg
 gallery: []

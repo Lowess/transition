@@ -1,7 +1,6 @@
 ---
 title: "BEBAR"
 categories: ['paris']
-tags: ['psyché']
 promoted: 0
 banner: images/artists/bebar/banner.jpg
 gallery: []

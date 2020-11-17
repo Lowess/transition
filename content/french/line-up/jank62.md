@@ -1,7 +1,6 @@
 ---
 title: "JAnk62"
 categories: ['calais']
-tags: ['réalisme']
 promoted: 0
 banner: images/artists/jank62/banner.jpg
 gallery: []

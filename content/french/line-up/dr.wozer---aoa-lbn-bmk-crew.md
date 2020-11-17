@@ -1,7 +1,6 @@
 ---
 title: "Dr.Wozer - AOA LBN BMK Crew"
 categories: ['etaples']
-tags: []
 promoted: 0
 banner: images/artists/dr.wozer---aoa-lbn-bmk-crew/banner.jpg
 gallery: []

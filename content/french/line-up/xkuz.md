@@ -1,7 +1,6 @@
 ---
 title: "XKUZ"
 categories: ['chantilly']
-tags: ['lettrage', 'graphique']
 promoted: 0
 banner: images/artists/xkuz/banner.jpg
 gallery: []

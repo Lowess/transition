@@ -1,7 +1,6 @@
 ---
 title: "HOROR"
 categories: ['paris']
-tags: ['illustration', 'animaux']
 promoted: 0
 banner: images/artists/horor/banner.jpg
 gallery: []

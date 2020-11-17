@@ -1,7 +1,6 @@
 ---
 title: "SIKO1"
 categories: ['montpellier']
-tags: ['graphique']
 promoted: 0
 banner: images/artists/siko1/banner.jpg
 gallery: []

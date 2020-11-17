@@ -1,7 +1,6 @@
 ---
 title: "Stom 500"
 categories: ['strasbourg']
-tags: []
 promoted: 0
 banner: images/artists/stom-500/banner.jpg
 gallery: []

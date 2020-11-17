@@ -2,8 +2,6 @@
 title: Lady K
 categories:
 - paris
-tags:
-- graffiti
 promoted: 93
 banner: images/artists/lady-k/banner.jpg
 gallery: []

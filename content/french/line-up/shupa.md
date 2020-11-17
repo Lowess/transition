@@ -1,7 +1,6 @@
 ---
 title: "SHUPA"
 categories: ['paris']
-tags: ['graffiti', 'abstrait']
 promoted: 0
 banner: images/artists/shupa/banner.jpg
 gallery: []

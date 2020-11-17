@@ -11,18 +11,14 @@ fields:
   default: 0
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min:
+    max:
+    step:
   label: Promotion
 - name: categories
   label: Lieux / Origine
-  description: Provenance de l'artiste (Liste de tags séparés par une virgule)
+  description: Provenance de l'artiste (Liste de villes séparés par une virgule)
   type: tag_list
-- name: tags
-  label: Styles
-  type: tag_list
-  description: Style de l'artiste (Liste de styles séparés par une virgule)
 - name: banner
   type: file
   label: Bannière

@@ -1,9 +1,6 @@
 ---
 title: 2FLUI
-categories:
-- paris
-tags:
-- calligraphie
+categories: ['paris']
 promoted: 50
 banner: images/artists/2flui/banner.png
 gallery:

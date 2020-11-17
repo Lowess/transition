@@ -2,7 +2,6 @@
 title: Zoyer - AOA TWE GB Crew
 categories:
 - paris
-tags: []
 promoted: 0
 banner: "/images/artists/2flui/banner.png"
 gallery:

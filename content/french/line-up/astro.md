@@ -1,7 +1,6 @@
 ---
 title: "Astro"
 categories: ['paris']
-tags: ['anamorphose']
 promoted: 0
 banner: images/artists/astro/banner.jpg
 gallery: []

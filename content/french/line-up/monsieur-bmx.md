@@ -2,8 +2,6 @@
 title: Monsieur BMX
 categories:
 - montpellier
-tags:
-- installation
 promoted: 91
 banner: images/artists/monsieur-bmx/banner.jpg
 gallery: []

@@ -1,7 +1,6 @@
 ---
 title: "Hugo GRAVEL"
 categories: ['lyon']
-tags: []
 promoted: 0
 banner: images/artists/hugo-gravel/banner.jpg
 gallery: []

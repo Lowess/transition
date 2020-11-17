@@ -1,7 +1,6 @@
 ---
 title: "{{ lower .Name }}"
 categories: []
-tags: []
 promoted: 0
 banner: images/artists/{{ replace .Name "-" " " | lower }}/banner.jpg
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: "GUMO"
 categories: ['paris']
-tags: ['illustration']
 promoted: 0
 banner: images/artists/gumo/banner.jpg
 gallery: []

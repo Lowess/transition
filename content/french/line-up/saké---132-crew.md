@@ -1,7 +1,6 @@
 ---
 title: "Saké - 132 Crew"
 categories: ['marseille']
-tags: []
 promoted: 0
 banner: images/artists/saké---132-crew/banner.jpg
 gallery: []
