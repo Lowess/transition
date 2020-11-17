@@ -5,7 +5,7 @@ promoted: 0
 banner: images/artists/agathe-verschaffel/banner.jpg
 gallery: []
 social:
-- link: https://www.instagram.com/agatheverschaffel
+- link: https://www.instagram.com/agathe_verschaffel
 
 ---
 # Biographie

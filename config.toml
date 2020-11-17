@@ -55,7 +55,7 @@ name = "Transition"
 weight = 4
 [[menu.main]]
 URL = "transition#project"
-name = "Le project"
+name = "Le projet"
 parent = "Transition"
 weight = 1
 [[menu.main]]

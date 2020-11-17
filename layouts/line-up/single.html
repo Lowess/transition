@@ -20,22 +20,38 @@
         <div class="artist-details">
           <h2><i class="ion-location" style="font-size: 30px;"></i> Origine</h2>
           {{ range (.GetTerms "categories") }}
-            <li><a href="{{ .Permalink }}">{{ .LinkTitle | title }}</a></li>
+            <span class="align-baseline">
+              <a href="{{ .Permalink }}">
+                <i class="ion-map" style="font-size: 30px;"></i>
+                {{ .LinkTitle | title }}
+              </a>
+            </span>
+
           {{ end }}
 
           <hr/>
+
           <h2><i class="ion-android-share"></i> Réseaux Sociaux</h2>
           {{ range .Params.social }}
-          <div class="row">
-            <a href="{{ .link | safeURL }}" target="blank">
-              <div class="col-md-2">
-                <i class="{{ .icon }}" style="font-size: 30px;"></i>
+            {{ if not (eq .link "#") }}
+              <div class="row">
+                <div class="col-md-12">
+                  {{ $scratch := newScratch }}
+                  {{ $scratch.Set "social" "ion-link" }}
+                  {{ if strings.HasPrefix .link "https://www.instagram.com" }}
+                    {{ $scratch.Set "social" "ion-social-instagram-outline" }}
+                  {{ else if strings.HasPrefix .link "https://www.facebook.com" }}
+                    {{ $scratch.Set "social" "ion-social-facebook-outline" }}
+                  {{ end }}
+                  <a href="{{ .link | safeURL }}" target="blank">
+                      <span class="align-baseline">
+                        <i class="{{ $scratch.Get "social" }}" style="font-size: 30px;"></i>
+                        {{ index (last 1 (split .link "/")) 0 }}
+                      </span>
+                  </a>
+                  </div>
               </div>
-              <div class="col-md-10">
-                <span class="align-middle">{{ index (last 1 (split .link "/")) 0 }}</span>
-              </div>
-            </a>
-          </div>
+            {{ end }}
           {{ end }}
         </div>
 

@@ -1,4 +1,20 @@
-
+.artist-content {
+  p {
+    font-size: 20px;
+  }
+}
+.artist-details {
+  font-size: 20px;
+  a {
+    color: $pink;
+  }
+  a:hover {
+    color: $blue;
+  }
+  i {
+    padding-right: 10px;
+  }
+}
 .artists-lineup {
   margin-bottom: 40px;
 }
