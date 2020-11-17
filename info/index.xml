@@ -6,10 +6,6 @@
     <description>Recent content in Informations on Transition | Musée Ephémère du Street Art</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright>
-    
-	<atom:link href="https://www.transition-espace-ephemere.com/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 Transition - Ephemeral Street Art Museum - All Rights Reserved</copyright><atom:link href="https://www.transition-espace-ephemere.com/info/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
