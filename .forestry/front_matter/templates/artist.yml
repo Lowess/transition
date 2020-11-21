@@ -11,9 +11,9 @@ fields:
   default: 0
   required: true
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
   label: Promotion
 - name: categories
   label: Lieux / Origine
