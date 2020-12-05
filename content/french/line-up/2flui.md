@@ -5,7 +5,7 @@ categories:
 tags:
 - calligraphie
 promoted: 50
-banner: images/capture-d-ecran-2020-12-05-a-14-42-49.png
+banner: images/dji_0173.jpg
 gallery:
 - images/119526734_1087782014991473_7055772805462202009_n.jpg
 - images/118776389_323410885656919_4533042901953789343_n.jpg
