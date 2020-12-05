@@ -11,9 +11,8 @@ partners:
 - name: La direction des archives de la ville.
 - name: Association Prélude.
 - name: Maison de Quartier du Soleil levant
-- name: La Maison Pour Tous.
 - name: Association Télé Baie de Somme.
-- name: 'La Maison du Projet : Aurore Lefevre.'
+- name: La Maison du Projet.
 - name: Les deux médiateurs de quartier et médiatrices sociales.
 - name: UNALEP (services civiques).
 - name: Service santé.
