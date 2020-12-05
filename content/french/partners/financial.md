@@ -3,6 +3,8 @@ title: Partenaires financiers
 description: Ils supportent le projet Transition
 banner: images/partners/partners.png
 partners:
+- name: 'Manufacture Abbevilloise '
+- name: VIA SANTE
 - name: Fondation BNP Paribas
 - name: Fondation Sncf
 - name: L’Etat / CGET
