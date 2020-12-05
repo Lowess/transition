@@ -3,6 +3,7 @@ title: Partenaires financiers
 description: Ils supportent le projet Transition
 banner: images/partners/partners.png
 partners:
+- name: Fondation BNP Paribas
 - name: Fondation Sncf
 - name: L’Etat / CGET
 - name: DRAC des Hauts de France
