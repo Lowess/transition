@@ -3,7 +3,7 @@ title: Partenaires opérationels
 description: Ils supportent le projet Transition
 banner: images/partners/partners.png
 partners:
-- name: Le bailleur social, Baie de Somme Habitat. M. Petit Le Gallot, Mme Ferjani.
+- name: 'Le bailleur social, Baie de Somme Habitat. '
 - name: 'Collège Ponthieu. '
 - name: Collège Millevoye.
 - name: Écoles de secteur.
