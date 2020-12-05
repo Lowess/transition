@@ -12,4 +12,15 @@ link = "https://www.instagram.com/k_yoo_caillou_art/"
 
 ***
 
-**KYOÔ**
+•ᛟᛉ🌒🌑🌘ᛉᛟ•
+
+AᚱᛏᛁSᛏᛊ C¤loᚱᛁsᛏᛊ
+
+•rendre hommage aux animaux•  
+•jouer avec les couleurs•  
+•interpeller la rétine et le cœur•
+
+•poser les runes•  
+•donner du sens•  
+•soigner•  
+•protéger•
