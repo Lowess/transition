@@ -14,9 +14,9 @@ gallery:
 - images/artists/2flui/union.png
 social:
 - icon: ion-social-facebook-outline
-  link: "#https://www.instagram.com/2flui/"
+  link: https://www.instagram.com/2flui/
 - icon: ion-social-twitter-outline
-  link: "#http://www.2flui.com/"
+  link: http://www.2flui.com/
 
 ---
 # Biographie
