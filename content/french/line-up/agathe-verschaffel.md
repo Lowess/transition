@@ -1,9 +1,13 @@
 ---
 title: AGATHE VERSCHAFFEL
-categories: ['calais']
+categories:
+- calais
 promoted: 0
-banner: images/artists/agathe-verschaffel/banner.jpg
-gallery: []
+banner: images/123653566_724258794842260_3620862522461513206_n_002.jpg
+gallery:
+- images/124018467_213361847042218_5742024719682424390_n.jpg
+- images/119193237_1484635961727246_236457481265097223_n.jpg
+- images/118134344_307549583905311_8598184179820611074_n.jpg
 social:
 - link: https://www.instagram.com/agathe_verschaffel
 
