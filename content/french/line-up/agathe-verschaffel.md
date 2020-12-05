@@ -3,7 +3,7 @@ title: AGATHE VERSCHAFFEL
 categories:
 - calais
 promoted: 0
-banner: images/123653566_724258794842260_3620862522461513206_n_002.jpg
+banner: images/bf4a9800-copie-2.jpg
 gallery:
 - images/124018467_213361847042218_5742024719682424390_n.jpg
 - images/119193237_1484635961727246_236457481265097223_n.jpg
