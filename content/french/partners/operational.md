@@ -9,8 +9,8 @@ partners:
 - name: Écoles de secteur.
 - name: Conseil Citoyen du quartier.
 - name: La direction des archives de la ville.
-- name: 'Association Prélude : Christine Clerc.'
-- name: 'Maison de Quartier du Soleil Levant : Jean-Philippe Hazard.'
+- name: Association Prélude.
+- name: Maison de Quartier du Soleil.
 - name: La Maison Pour Tous.
 - name: Association Télé Baie de Somme.
 - name: 'La Maison du Projet : Aurore Lefevre.'
