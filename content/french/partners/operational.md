@@ -8,11 +8,7 @@ partners:
 - name: Collège Millevoye.
 - name: Écoles de secteur.
 - name: Conseil Citoyen du quartier.
-- name: 'Service Culturel de la ville : Laurent Cauchy.'
-- name: 'Le Musée Boucher de Perthes : Patrick Absalon.'
-- name: L’Espace Saint Andrée, Laurent Cauchy.
-- name: La bibliothèque.
-- name: 'La direction des archives de la ville : Eric Berriahi.'
+- name: La direction des archives de la ville.
 - name: 'Association Prélude : Christine Clerc.'
 - name: 'Maison de Quartier du Soleil Levant : Jean-Philippe Hazard.'
 - name: La Maison Pour Tous.
