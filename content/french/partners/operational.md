@@ -3,6 +3,7 @@ title: Partenaires opérationels
 description: Ils supportent le projet Transition
 banner: images/partners/partners.png
 partners:
+- name: SIDEM
 - name: Parflam
 - name: SONO +
 - name: KILOUTOU
