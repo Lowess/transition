@@ -14,6 +14,11 @@ social:
 
 ---
 # Biographie
----
 
-**BEBAR**
+***
+
+**Né en 1993, l’artiste franco-espagnol BEBAR se distingue par sa polyvalence et sa pratique duelle, entre maîtrise du graffiti et maîtrise académique, entre figuration et abstraction.**
+
+C’est à l’Ecole Nationale des Arts Décoratifs de Paris puis à la Parsons School de New York qu’il apprend les techniques académiques qui se mêleront à son goût pour l’art de rue, y compris le plus transgressif.
+
+BEBAR s’exprime sous différentes formes telles que l’illustration, la sculpture ou encore le tatouage. Il expose son travail en galerie d’art et dans les rues des villes qui l’inspirent : Paris, New-York, Rio, La Havane …
