@@ -3,6 +3,7 @@ title: Partenaires opérationels
 description: Ils supportent le projet Transition
 banner: images/partners/partners.png
 partners:
+- name: KILOUTOU
 - name: 'Le bailleur social, Baie de Somme Habitat. '
 - name: 'Collège Ponthieu. '
 - name: Collège Millevoye.
@@ -14,8 +15,6 @@ partners:
 - name: Association Télé Baie de Somme.
 - name: La Maison du Projet.
 - name: Les deux médiateurs de quartier et médiatrices sociales.
-- name: UNALEP (services civiques).
-- name: Service santé.
 weight: "1"
 
 ---
