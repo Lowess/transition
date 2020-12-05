@@ -14,6 +14,8 @@ social:
 
 ---
 # Biographie
----
 
-**BOB 59**
+***
+
+Graffiti / Motion / Illustration  
+✍Operation freestyle
