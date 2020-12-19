@@ -3,7 +3,7 @@ title: Espack
 categories:
 - Lille
 promoted: 0
-banner: images/artists/espack/banner.jpg
+banner: images/capture-d-ecran-2020-12-19-a-15-23-57.png
 gallery:
 - images/_espack-oner-one-shot-lover_.jpg
 - images/1596634755073_montage-covid-au-format-1.jpg
