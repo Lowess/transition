@@ -1,6 +1,6 @@
 ---
 title: ''
-banner: images/b3.jpg
+banner: images/banniere.jpg
 poster: images/dji_0014.jpg
 
 ---
