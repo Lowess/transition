@@ -1,18 +1,20 @@
 ---
-title: "DANTE"
-categories: ['paris']
+title: DANTE
+categories: []
 promoted: 0
-banner: images/artists/dante/banner.jpg
-gallery: []
+banner: images/129648415_377238956701272_5920608345283750668_n.jpg
+gallery:
+- images/127805608_4042055092490819_8701194997664071772_n.jpg
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/danteoner/
 
+---
 # Biographie
----
 
-**DANTE**
+***
+
+Artiste 🎭  
+\-  
+Breizh / Lutèce  
+\-  
+Peinture / Murs / Dessins
