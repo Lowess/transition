@@ -1,17 +1,16 @@
 ---
-title: "Dize"
-categories: ['paris']
+title: Dize
+categories:
+- paris
 promoted: 0
-banner: images/artists/dize/banner.jpg
-gallery: []
+banner: images/img_7788.jpg
+gallery:
+- images/img_7791.jpg
+- images/img_7790.jpg
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/dize156/
 
+---
 # Biographie
 ---
 
