@@ -12,10 +12,7 @@ gallery:
 - images/105937986_175786587242307_7826592783308442105_n.jpg
 - images/122554084_621747301855104_2498748082149386315_n.jpg
 social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
+- link: https://www.instagram.com/xkuz_toi/?hl=fr
 
 ---
 # Biographie
