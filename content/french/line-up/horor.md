@@ -1,17 +1,16 @@
 ---
-title: "HOROR"
-categories: ['paris']
+title: HOROR
+categories:
+- paris
 promoted: 0
-banner: images/artists/horor/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2020-12-19-a-15-55-06.png
+gallery:
+- images/capture-d-ecran-2020-12-19-a-15-56-06.png
+- images/capture-d-ecran-2020-12-19-a-15-55-49.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/boreal_horor/?hl=fr
 
+---
 # Biographie
 ---
 
