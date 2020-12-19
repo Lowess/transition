@@ -8,10 +8,7 @@ gallery:
 - images/97563723_360368948256545_9114180490935983139_n.jpg
 - images/103465182_257873538815935_9101245375424461422_n.jpg
 social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
+- link: https://www.instagram.com/eklor_one/
 
 ---
 # BiographieEklor
