@@ -1,7 +1,7 @@
 +++
 banner = "images/dji_0332.jpg"
 categories = ["Abbeville"]
-gallery = ["images/121354379_678404392782960_1283327301959870477_n.jpg", "images/118654614_339772450733665_6976311668927184924_n.jpg", "images/121219123_821439018641356_2315932854394641835_n.jpg", "/images/artists/2flui/banner.png"]
+gallery = ["images/img_20200725_123608_215.jpg", "images/img_20200722_171150_140.jpg", "/images/artists/2flui/banner.png"]
 promoted = 0
 title = "KYOÔ"
 [[social]]
