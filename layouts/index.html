@@ -5,11 +5,7 @@
 <!-- /line-up -->
 {{ partial "line-up" . }}
 
-<div class="container-fluid row">
-  <div class="container-fluid">
-    <div class="row justify-content-center">
-      <img src="{{ .Params.poster | relURL }}" class="img-responsive w-100" />
-    </div>
-  </div>
+<div class="container-fluid p-0 m-5">
+  <img src="{{ .Params.poster | relURL }}" class="img-responsive w-100" />
 </div>
 {{ end }}

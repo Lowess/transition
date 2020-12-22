@@ -93,6 +93,8 @@ map_marker = "images/marker.png"
 [params.instagram]
 appid = "..."
 token = "..."
+[params.eventbrite]
+url = "#"
 [params.maintenance]
 enable = false
 image = "images/affiche-coming-soon-01.jpg"

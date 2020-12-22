@@ -11,7 +11,7 @@
         <div class="post">
           <div class="post-media post-thumb">
             <a href="{{ .Permalink }}">
-							{{ $artistBanner := .Params.Image }}
+							{{ $artistBanner := .Params.banner }}
 							{{ if (fileExists (printf "static/%s" $artistBanner)) -}}
 							<img class="img-responsive" src="{{ $artistBanner | relURL }}" alt="">
 							{{ else }}
@@ -31,7 +31,7 @@
             </ul>
           </div>
           <div class="post-content">
-            <p>{{ .Summary }}</p>
+						<p>{{ .Summary }}</p>
             <a href="{{ .Permalink }}" class="btn btn-main">Voir artiste</a>
           </div>
         </div>
@@ -99,7 +99,7 @@
 					</ul>
 				</nav>
 				{{ end }}
-      </div>
+			</div>
       <!-- <div class="col-md-4">
         {{ partial "blog-sidebar.html" . }}
       </div> -->
