@@ -1,18 +1,20 @@
 ---
-title: "La Shoze"
-categories: ['Amiens']
+title: La Shoze
+categories:
+- Amiens
 promoted: 0
-banner: images/artists/la-shoze/banner.jpg
-gallery: []
+banner: images/123572926_752765235309442_1872063745405031107_n_002.jpg
+gallery:
+- images/101488512_612487362807736_5880212711493523457_n.jpg
+- images/83568542_119185869448723_5005464926304980632_n.jpg
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/la_shoze/?hl=fr
 
+---
 # Biographie
----
 
-**La Shoze**
+***
+
+★ Former Great Teacher Onizuka 📚 🎓  
+★ Graffiti lover ✏ 🖌  
+★ Furniture customizer ✏️ 🏡
