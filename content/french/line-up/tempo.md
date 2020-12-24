@@ -3,8 +3,10 @@ title: TEMPO
 categories:
 - paris
 promoted: 90
-banner: images/artists/tempo/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2020-12-24-a-08-14-41.png
+gallery:
+- images/capture-d-ecran-2020-12-24-a-08-14-52.png
+- images/capture-d-ecran-2020-12-24-a-08-15-01.png
 social:
 - icon: ion-social-facebook-outline
   link: "#"
@@ -13,6 +15,8 @@ social:
 
 ---
 # Biographie
----
 
-**TEMPO**
+***
+
+Graffiti / Paris 🇫🇷  
+StreetLife Session 🙈🏃‍♂️
