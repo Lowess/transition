@@ -1,18 +1,19 @@
 ---
-title: "MISSY"
-categories: ['strasbourg']
+title: MISSY
+categories:
+- strasbourg
 promoted: 0
-banner: images/artists/missy/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2020-12-24-a-07-25-26.png
+gallery:
+- images/capture-d-ecran-2020-12-24-a-07-25-41.png
+- images/capture-d-ecran-2020-12-24-a-07-26-12.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/missyillustration/?hl=fr
 
+---
 # Biographie
----
 
-**MISSY**
+***
+
+Artiste  
+Illustration 〰️ Fresque
