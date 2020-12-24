@@ -1,18 +1,18 @@
 ---
-title: "Stom 500"
-categories: ['strasbourg']
+title: Stom 500
+categories:
+- strasbourg
 promoted: 0
-banner: images/artists/stom-500/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2020-12-24-a-08-08-35.png
+gallery:
+- images/capture-d-ecran-2020-12-24-a-08-08-48.png
+- images/capture-d-ecran-2020-12-24-a-08-09-01.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/stom500/
 
+---
 # Biographie
----
 
-**Stom 500**
+***
+
+Artist / illustrator / Graffiti
