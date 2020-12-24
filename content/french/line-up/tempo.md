@@ -8,10 +8,7 @@ gallery:
 - images/capture-d-ecran-2020-12-24-a-08-14-52.png
 - images/capture-d-ecran-2020-12-24-a-08-15-01.png
 social:
-- icon: ion-social-facebook-outline
-  link: "#"
-- icon: ion-social-twitter-outline
-  link: "#"
+- link: https://www.instagram.com/tempo_nok/
 
 ---
 # Biographie
