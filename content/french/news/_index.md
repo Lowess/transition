@@ -4,6 +4,10 @@ description: Suivez nous sur les réseaux sociaux
 banner: images/news/street-art.png
 date: '2019-12-23T13:05:29.000+06:00'
 news:
+- instagram_post: https://www.instagram.com/p/CJJoqfThGtx/
+- instagram_post: https://www.instagram.com/p/CJG7UhVpHcS/
+- instagram_post: https://www.instagram.com/p/CIJdflvJZ7X/
+  instagram_caption: false
 - instagram_post: https://www.instagram.com/p/CGfSNahlWAj/
 - instagram_post: https://www.instagram.com/p/CGevN3lplcp/
 - instagram_post: https://www.instagram.com/p/CGa2iaSp7vW/
