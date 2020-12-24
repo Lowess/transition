@@ -1,18 +1,18 @@
 ---
-title: "MG la bomba - OVK AOA GB Crew"
-categories: ['bruxelles']
+title: 'MG la bomba '
+categories:
+- bruxelles
 promoted: 0
-banner: images/artists/mg-la-bomba---ovk-aoa-gb-crew/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2020-12-24-a-07-22-44.png
+gallery:
+- images/capture-d-ecran-2020-12-24-a-07-22-59.png
+- images/capture-d-ecran-2020-12-24-a-07-23-21.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/mg_labomba/?hl=fr
 
+---
 # Biographie
----
 
-**MG la bomba - OVK AOA GB Crew**
+***
+
+French artist / Always with my spray !
