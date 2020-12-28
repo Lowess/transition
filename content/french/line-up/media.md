@@ -1,15 +1,20 @@
 +++
-banner = "images/120816911_619951868683991_5751558670023982163_n_002.jpg"
-categories = []
+banner = "images/capture-d-ecran-2020-12-28-a-10-26-26.png"
+categories = ["Paris"]
 draft = true
-gallery = ["images/115909017_208570723858453_8634622569188290282_n.jpg", "images/122123542_174721027467425_2326561360818448839_n.jpg", "images/121670932_848208712587951_3705322192774790842_n.jpg"]
+gallery = ["images/capture-d-ecran-2020-12-28-a-10-26-41.png", "images/capture-d-ecran-2020-12-28-a-10-26-49.png", "images/capture-d-ecran-2020-12-28-a-10-27-07.png"]
 promoted = 0
-title = "MEDIA"
+title = "Omouck"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "https://www.instagram.com/media_odv/"
+link = "https://www.instagram.com/omouck_odv/"
 
 +++
 # Biographie
 
 ***
+
+# 🌴Omouck🌴
+
+  
+974  
+ODV
