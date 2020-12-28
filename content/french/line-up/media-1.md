@@ -1,19 +1,15 @@
 +++
-banner = "images/artists/bault/banner.jpg"
-categories = ["montpellier"]
-draft = true
-gallery = []
+banner = "images/capture-d-ecran-2020-12-28-a-10-23-22.png"
+categories = ["Paris"]
+gallery = ["images/capture-d-ecran-2020-12-28-a-10-23-31.png", "images/capture-d-ecran-2020-12-28-a-10-23-51.png", "images/capture-d-ecran-2020-12-28-a-10-24-03.png"]
 promoted = 0
 title = "MEDIA"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://florianschneider.fr/"
 [[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://www.instagram.com/media_odv/"
 
 +++
-# Biographie
----
+# 
 
-**Bault**
+***
