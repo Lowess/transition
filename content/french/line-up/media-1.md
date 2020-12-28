@@ -10,6 +10,3 @@ link = "https://florianschneider.fr/"
 link = "https://www.instagram.com/media_odv/"
 
 +++
-# 
-
-***
