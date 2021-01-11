@@ -84,6 +84,9 @@ google_analitycs_id = ""
 location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
+[params.eventbrite]
+message = "[COVID-19] - En raison des mesures sanitaires, nous ne sommes pas en mesure de vous dire quand ouvrira l’espace Transition. Inutile de nous contacter, nous ne manquerons pas de vous en informer dès que le gouvernement nous autorisera à le faire. Merci et à bientôt"
+url = ""
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -93,9 +96,6 @@ map_marker = "images/marker.png"
 [params.instagram]
 appid = "..."
 token = "..."
-[params.eventbrite]
-message = "[COVID-19] - En raisons des mesures sanitaires, nous ne sommes pas en mesure de vous dire qu’en ouvrira l’espace Transition. Inutile de nous contacter, nous ne manquerons pas de vous en  informer quand le gouvernement nous autorisera à le faire.Merci et à bientôt"
-url = ""
 [params.maintenance]
 enable = false
 image = "images/affiche-coming-soon-01.jpg"
