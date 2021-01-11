@@ -1,21 +1,31 @@
 {{ with .Site.Params.eventbrite }}
-{{ if not (eq .url "#") }}
+
 <div id="transition-tickets" class="container-fluid text-center">
   <div class="justify-content-center p-5">
     <ul class="list-inline">
+
       <li>
-        <h2>
-          <i class="ion-calendar"></i>
-          Réservez votre visite
-        </h2>
+        {{ if and .message (not (eq .message "")) }}
+          <h3>
+            <i class="ion-information-circled"></i>
+            {{ .message }}
+          </h3>
+        {{ else }}
+          <h2>
+            <i class="ion-calendar"></i>
+            Réservez votre visite
+          </h2>
+        {{ end }}
       </li>
-      <li>
-        <a class="btn btn-primary btn-xlarge" style="margin-bottom: 15px" href="{{ .url }}" role="button" target="_blank">
-          Obtenir vos tickets
-        </a>
-      </li>
+
+      {{ if and (not (eq .url "#")) (not (eq .url "")) }}
+        <li>
+          <a class="btn btn-primary btn-xlarge" style="margin-bottom: 15px" href="{{ .url }}" role="button" target="_blank">
+            Obtenir vos tickets
+          </a>
+        </li>
+      {{ end }}
     </ul>
   </div>
 </div>
-{{ end }}
 {{ end }}
