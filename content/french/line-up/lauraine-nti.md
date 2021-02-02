@@ -1,18 +1,17 @@
 ---
-title: "LAURAINE NTI"
-categories: ['lyon']
+title: LORAINE MTI
+categories:
+- lyon
 promoted: 0
-banner: images/artists/lauraine-nti/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2021-02-02-a-12-59-05.png
+gallery:
+- images/capture-d-ecran-2021-02-02-a-13-00-47.png
+- images/capture-d-ecran-2021-02-02-a-13-00-55.png
+- images/capture-d-ecran-2021-02-02-a-13-01-45.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- link: https://www.instagram.com/loraine_mti/
 
-# Biographie
 ---
+# 
 
-**LAURAINE NTI**
+***
