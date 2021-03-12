@@ -1,5 +1,5 @@
 ---
-title: CANNIBAL LETTERS
+title: 'CANNIBAL '
 categories:
 - paris
 promoted: 0
