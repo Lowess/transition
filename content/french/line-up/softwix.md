@@ -5,7 +5,7 @@ gallery = ["images/57623861_2350245691886457_7309649824787047503_n.jpg", "images
 promoted = 0
 title = "SOFTTWIX"
 [[social]]
-link = "https://www.facebook.com/willy.vanseveren.5"
+link = "https://www.instagram.com/softtwix/"
 
 +++
 # Biographie
