@@ -1,7 +1,6 @@
 +++
 banner = "images/56806714_851928638497983_4137875616505243578_n.jpg"
 categories = ["new-york", "roubaix"]
-draft = true
 gallery = ["images/54220655_155184562181801_1151941510502322746_n.jpg", "images/54247505_115832246259683_4053895783531790051_n.jpg"]
 promoted = 99
 title = "JOBER"
