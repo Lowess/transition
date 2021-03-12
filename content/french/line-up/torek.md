@@ -1,17 +1,17 @@
 +++
-banner = "images/capture-d-ecran-2020-12-24-a-08-14-41.png"
+banner = "images/120071059_322379252363344_7487088171943598604_n_002.jpg"
 categories = ["paris"]
 draft = true
-gallery = ["images/capture-d-ecran-2020-12-24-a-08-14-52.png", "images/capture-d-ecran-2020-12-24-a-08-15-01.png"]
+gallery = ["images/28429621_154236041953987_6318792075269636096_n.jpg", "images/117105279_3422093771245595_6504871406909470505_n.jpg", "images/120018811_740369643215527_643301216341967450_n.jpg"]
 promoted = 90
-title = "TOREK"
+title = "H E K T O R"
 [[social]]
-link = "https://www.instagram.com/tempo_nok/"
+link = "https://www.instagram.com/hektorgraffitiart/"
 
 +++
-# Biographie
+# 
 
 ***
 
-Graffiti / Paris 🇫🇷  
-StreetLife Session 🙈🏃‍♂️
+Graffiti Artist  
+Paris 🇫🇷
