@@ -1,19 +1,13 @@
 +++
-banner = "images/capture-d-ecran-2020-12-24-a-07-35-38.png"
-categories = ["paris"]
-draft = true
-gallery = ["images/capture-d-ecran-2020-12-24-a-07-36-10.png", "images/capture-d-ecran-2020-12-24-a-07-36-22.png"]
+banner = "images/146118491_528984268076596_8318154108504327243_n.jpg"
+categories = []
+gallery = ["images/139548031_410083493556801_8088220424364160589_n.jpg", "images/141095026_1086167871809936_3445205888673436167_n.jpg", "images/143530687_114888687200940_223194319811111070_n.jpg"]
 promoted = 0
 title = "ROMAIN DORE"
 [[social]]
 link = "https://www.instagram.com/psyckozenolimit/?hl=fr"
 
 +++
-# Biographie
+# 
 
 ***
-
-**Depuis 1984, Alexandre Stolypine aka Psyckoze Nolimit est un des piliers de la culture graffiti en France.   
-MILITANT / Au service de la liberté d’expression, il s’engage pour la reconnaissance du mouvement graffiti comme une culture artistique.   
-FEDERATEUR / il a été à l’initiative d’espaces alternatifs dédiés à la production et à la diffusion des cultures urbaines au niveau international.   
-AUTHENTIQUE/ Aujourd'hui, sa démarche artistique reste intacte développant en parallèle son travail en atelier et dans la rue.**
