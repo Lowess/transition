@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.transition-espace-ephemere.com/transition/project/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/partners/operational/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/transition/location/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/partners/financial/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/transition/anru/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
@@ -35,90 +24,48 @@
                 hreflang="fr"
                 href="https://www.transition-espace-ephemere.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/news/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/2flui/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/3-petits-points/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/abbeville/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/agathe-verschaffel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/alexis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/amiens/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/amsterdam/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/anje/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/astro/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/aurillac/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/bault/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/bebar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/biarritz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/bob-59/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/bruxelles/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/calais/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/tags/calligraphie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/cannibal-letters/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -130,201 +77,103 @@
                 hreflang="fr"
                 href="https://www.transition-espace-ephemere.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/celine-rano/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/chantilly/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/dante/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/dize/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/dr.wozer-aoa-lbn-bmk-crew/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/eklor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/espack/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/etaples/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/tags/graphique/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/grems/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/guilty/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/gumo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/horor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/hugo-gravel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/info/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/jank62/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/jonone/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/kyoo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/la-shoze/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/lady-k/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/tags/lettrage/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/lille/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/lauraine-nti/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/lyon/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/marseille/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/media-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/metz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/mg-la-bomba-ovk-aoa-gb-crew/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/mikostic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/missy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/monsieur-bmx/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/montpellier/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/morlaix-paris/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/nasty/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/new-york/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/partners/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/media/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/paris/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/piman/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/psy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/roubaix/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/sak%C3%A9-132-crew/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/scaf-oner/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/shane/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/shupa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/siko1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/stom-500/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/categories/strasbourg/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -336,42 +185,23 @@
                 hreflang="fr"
                 href="https://www.transition-espace-ephemere.com/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/tempo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/termik/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/transition/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/valer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/vincent-pietri/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/xkuz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/xzxz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/zag/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.transition-espace-ephemere.com/line-up/zoyer-aoa-twe-gb-crew/</loc>
   </url>
-  
 </urlset>
