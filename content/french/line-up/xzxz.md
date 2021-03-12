@@ -1,17 +1,18 @@
 ---
-title: "XZXZ"
-categories: ['aurillac']
+title: XZXZ
+categories:
+- aurillac
 promoted: 0
-banner: images/artists/xzxz/banner.jpg
-gallery: []
+banner: images/capture-d-ecran-2021-03-12-a-15-00-09.png
+gallery:
+- images/capture-d-ecran-2021-03-12-a-15-00-25.png
+- images/capture-d-ecran-2021-03-12-a-15-00-36.png
 social:
-  - icon : "ion-social-facebook-outline"
-    link : "#"
-  - icon : "ion-social-twitter-outline"
-    link : "#"
-draft: false
----
+- icon: ion-social-facebook-outline
+  link: "#https://www.instagram.com/pierrexzxz/"
+draft: true
 
+---
 # Biographie
 ---
 
