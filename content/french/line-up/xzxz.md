@@ -10,7 +10,6 @@ gallery:
 social:
 - icon: ion-social-facebook-outline
   link: "#https://www.instagram.com/pierrexzxz/"
-draft: true
 
 ---
 # Biographie
