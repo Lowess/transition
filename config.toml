@@ -85,8 +85,8 @@ location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
-message = "[COVID-19] - En raison des mesures sanitaires, nous ne sommes pas en mesure de vous dire quand ouvrira l’espace Transition. Inutile de nous contacter, nous ne manquerons pas de vous en informer dès que le gouvernement nous autorisera à le faire. Merci et à bientôt"
-url = ""
+message = ""
+url = "https://www.weezevent.com/transition-espace-ephemere-d-art-urbain-2"
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
