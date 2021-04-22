@@ -86,7 +86,7 @@ logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
 message = "\n"
-url = "https://www.weezevent.com/transition-espace-ephemere-d-art-urbain-2"
+url = ""
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
