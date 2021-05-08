@@ -21,10 +21,19 @@
       {{ if and (not (eq .url "#")) (not (eq .url "")) }}
         <li>
           <a class="btn btn-primary btn-xlarge" style="margin-bottom: 15px" href="{{ .url }}" role="button" target="_blank">
-            Obtenir vos tickets
+            <i class="ion-pricetags"></i> Obtenir vos tickets
           </a>
         </li>
       {{ end }}
+
+      {{ if and (not (eq .url_edu "#")) (not (eq .url_edu "")) }}
+        <li>
+          <a class="btn btn-secondary btn-xlarge" style="margin-bottom: 15px" href="{{ .url_edu }}" role="button" target="_blank">
+            <i class="ion-bookmark"></i> Éducation Nationale
+          </a>
+        </li>
+      {{ end }}
+
     </ul>
   </div>
 </div>
