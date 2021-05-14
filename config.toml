@@ -85,7 +85,7 @@ location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
-message = "\n[COVID-19] - En raison des mesures sanitaires, nous ne sommes pas en mesure de vous dire quand ouvrira l’espace Transition. Inutile de nous contacter, nous ne manquerons pas de vous en informer dès que le gouvernement nous autorisera à le faire. Merci et à bientôt."
+message = "Nous ouvrons la billetterie Samedi 15 mai à 12h00 sur notre site web."
 url = ""
 url_edu = ""
 [params.gmap]
