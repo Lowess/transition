@@ -86,7 +86,7 @@ logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
 message = "Nous ouvrons la billetterie Samedi 15 mai à 12h00 sur notre site web."
-url = ""
+url = "https://www.billetweb.fr/transition-espace-ephemere-dart-urbain"
 url_edu = ""
 [params.gmap]
 enable = false
