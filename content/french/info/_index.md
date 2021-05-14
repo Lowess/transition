@@ -21,10 +21,10 @@ banner: images/info/banner.jpg
 
 > ### **Comment réserver son billet ?**
 >
-> C’est très simple est accessible à tous. Il suffit de cliquer sur le bouton ci-dessus et de choisir :
+> C’est très simple est accessible à tous. Il suffit de cliquer sur le bouton jaune en haut de la page et de choisir :
 >
 > * La date et créneau horaire qui vous conviennent (les créneaux qui sont complets ne sont plus afficher)
-> * De choisir le nombre de billets (1 par personne, y compris les enfants à partir de 3 ans) 
+> * De choisir le nombre de billets (1 par personne, y compris les enfants à partir de 3 ans)
 > * D’accepter les conditions de vente (même si le billet est gratuit)
 > * Et enfin, de télécharger votre billet qui sera indispensable pour entrer dans l'espace éphémère – Les billets vous sont également envoyés à l’adresse mail renseignée (bien vérifier votre boite de courriers indésirables si vous ne les avez pas reçus)
 
