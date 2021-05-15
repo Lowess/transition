@@ -1,7 +1,7 @@
 ---
 title: Informations
 description: Ou nous trouver // Plans d'accès
-banner: images/info/banner.jpg
+banner: images/126393334_425110211982431_4943736422801940529_n.jpg
 
 ---
 # Infos Pratiques
