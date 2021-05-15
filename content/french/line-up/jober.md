@@ -1,23 +1,19 @@
 +++
-banner = "images/56806714_851928638497983_4137875616505243578_n.jpg"
-categories = ["new-york", "roubaix"]
-gallery = ["images/54220655_155184562181801_1151941510502322746_n.jpg", "images/54247505_115832246259683_4053895783531790051_n.jpg"]
+banner = "images/capture-d-ecran-2021-05-15-a-08-30-03.png"
+categories = []
+gallery = ["images/capture-d-ecran-2021-05-15-a-08-30-17.png", "images/capture-d-ecran-2021-05-15-a-08-30-26.png", "images/capture-d-ecran-2021-05-15-a-08-30-46.png"]
 promoted = 99
 title = "JOBER"
 [[social]]
-link = "https://www.instagram.com/jonone_156/?hl=fr"
+link = "https://www.instagram.com/jo__ber/"
 
 +++
 # Biographie
 
 ***
 
-John Andrew Perello, AKA **JonOne** is a graffiti artist, borns in 1963 in New York USA.
+JO BER a commencé par apposer son art sur les murs et trains de la ville de Paris. Comme de nombreux artistes de Jardin Rouge, il est issu du graffiti et tente aujourd’hui de développer son art sur d’autres supports, portant sa recherche graphique au delà.
 
-He founded the 156 All Starz group in 1984 in New York. At the age of 17, he began working in the world of graffiti with his childhood friend White Man. He soon made a name for his style and created **abstract works** influenced by **movement, color and the energy of the city.** His style sets him apart from others as, at that time, the majority of other graffiti writers were working in more figurative styles.
+Des histoires drôles, des situations cocasses, un regard amusé et piquant sur notre quotidien font de l’univers de JO BER un véritable conte à géométrie variable. Ces personnages aux visages ronds et souriants nous font part de leurs états d’âme. La douceur des couleurs contraste avec l’ironie sous-jaçente.
 
-In 1987 Jonone **moved to Paris** following an invitation from a good friend Bando, He soon found Paris had become his ‘new home’ and a place where he could pursue personal enrichment. In 1990 Jonone was introduced to Cornette de Saint Cyr, and as a result was invited to work at the legendary ‘Hopital Ephemere’.
-
-He soon **made a name in Parisian artistic circles** with his works on canvas and exhibited his work in 1990 at ‘Gallery 45 Gleditsch’ in Berlin and participated in 1991 in the ‘Paris Graffiti’ exhibition, rue Chapon in Paris.
-
-Jonone has exposed his works around the world from Seoul, Miami, Monaco, Paris, Geneva, New York, Hong Kong, Brussels, London, Abidjan and Moscow.
+On décèle dans ses œuvres toutes les intentions de l’artiste qui consistent à esquisser les contours d’un univers imaginé. Différents voyages l’ont amené à collaborer avec des artistes dont POES avec qui il a réalisé une fresque monumentale dans le collège Tariq Ibn Ziad à Marrakech.
