@@ -78,7 +78,7 @@ name = "Info"
 weight = 6
 [params]
 author = "[Developed by Florian Dambrine](http://floriandambrine.com/) [& Alexis Latraye]"
-description = "Ephemeral Street Art Museum"
+description = "Ephemeral Street Art Museum "
 email = "transition@gmail.com"
 google_analitycs_id = ""
 location = "Quartier du soleil levant - 80100 Abbeville"
