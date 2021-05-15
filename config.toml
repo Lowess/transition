@@ -85,9 +85,9 @@ location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
-message = "Nous ouvrons la billetterie Samedi 15 mai à 12h00 sur notre site web."
+message = "Ouverture Billetterie Grand Public 15 Mai à 12h. \nOuverture Billetterie Éducation Nationale 22 Mai à 12h. "
 url = "https://www.billetweb.fr/transition-espace-ephemere-dart-urbain"
-url_edu = ""
+url_edu = "https://www.billetweb.fr/en-transition-espace-ephemere-dart-urbain"
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
