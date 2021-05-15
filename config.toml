@@ -77,7 +77,7 @@ URL = "info"
 name = "Info"
 weight = 6
 [params]
-author = "[Developed by Florian Dambrine](http://floriandambrine.com/) & Alexis Latraye"
+author = "[Developed by Florian Dambrine](http://floriandambrine.com/) [& Alexis Latraye]"
 description = "Ephemeral Street Art Museum"
 email = "transition@gmail.com"
 google_analitycs_id = ""
@@ -85,7 +85,7 @@ location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
 [params.eventbrite]
-message = "Ouverture Billetterie Grand Public 15 Mai à 12h. \nOuverture Billetterie Éducation Nationale 22 Mai à 12h. "
+message = "Ouverture Billetterie Grand Public 15 Mai à 12h.  \nOuverture Billetterie Éducation Nationale 22 Mai à 12h. "
 url = "https://www.billetweb.fr/transition-espace-ephemere-dart-urbain"
 url_edu = "https://www.billetweb.fr/en-transition-espace-ephemere-dart-urbain"
 [params.gmap]
