@@ -40,6 +40,10 @@ weight = 4
 URL = "info"
 name = "Info"
 weight = 5
+[[menu.footer]]
+URL = "education-nationale"
+name = "Eucation Nationale"
+weight = 5
 [[menu.main]]
 URL = "line-up"
 name = "Line-Up"
@@ -76,6 +80,10 @@ weight = 5
 URL = "info"
 name = "Info"
 weight = 6
+[[menu.main]]
+URL = "education-nationale"
+name = "Education Nationale"
+weight = 7
 [params]
 author = "[Developed by Florian Dambrine](http://floriandambrine.com/) [& Alexis Latraye]"
 description = "Ephemeral Street Art Museum "
