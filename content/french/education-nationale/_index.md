@@ -8,11 +8,7 @@ banner: images/capture-d-ecran-2021-05-18-a-07-23-43.png
 
 ***
 
-> {{< icon "ion-map" >}} Lieu: [**Quartier du soleil levant - 80100 Abbeville**](https://www.google.com/maps/place/Rue+des+Tilleuls,+80100+Abbeville/@50.1080852,1.8526973,17z/data=!4m5!3m4!1s0x47dd8ced60d85ddf:0xde677403fb290e85!8m2!3d50.108216!4d1.854886)
-
-> {{< icon "ion-clock" >}} Le projet Transition sera ouvert au scolaire en matinée du mercredi au vendredi
-
-> {{< icon "ion-image" >}} La partie « Exposition » de Transition est ouverte **gratuitement** (participation libre)
+> {{< icon "ion-clock" >}} Le projet Transition sera ouvert au scolaire en matinée du mercredi au vendredi (réservation obligatoire). Un groupe par matinée. 
 
 > La classe est divisée en groupes de **6 élèves**. Chaque groupe est placé sous l’autorité d’un adulte (parent, ...) qui accompagnera le groupe tout au long de la visite
 
