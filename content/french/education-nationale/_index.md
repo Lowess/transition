@@ -8,7 +8,7 @@ banner: images/capture-d-ecran-2021-05-18-a-07-23-43.png
 
 ***
 
-> {{< icon "ion-clock" >}} Le projet Transition sera ouvert au scolaire en matinée du mercredi au vendredi (réservation obligatoire). Un groupe par matinée. 
+> {{< icon "ion-clock" >}} Le projet Transition sera ouvert au scolaire en matinée du mardi au vendredi (réservation obligatoire). Un groupe par matinée. 
 
 > La classe est divisée en groupes de **6 élèves**. Chaque groupe est placé sous l’autorité d’un adulte (parent, ...) qui accompagnera le groupe tout au long de la visite
 
