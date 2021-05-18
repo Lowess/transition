@@ -20,8 +20,8 @@ banner: images/capture-d-ecran-2021-05-18-a-07-23-43.png
 
 # Documents Accompagnements
 
-Vous trouverez la fiche pédagogique pour le premier degrés ici : [Fiche pédagogique premier degrés. ](https://smallpdf.com/shared#st=e534df00-aea4-4ccd-8f06-505623532fbf&fn=TRANSITION+Fiches+p%C3%A9dagogiques+1er+degr%C3%A9.pdf&ct=1621315282226&tl=share-document&rf=link)
+> #### Vous trouverez la fiche pédagogique pour le premier degrés ici : [Fiche pédagogique premier degrés. ](https://smallpdf.com/shared#st=e534df00-aea4-4ccd-8f06-505623532fbf&fn=TRANSITION+Fiches+p%C3%A9dagogiques+1er+degr%C3%A9.pdf&ct=1621315282226&tl=share-document&rf=link)
 
 # Réservation
 
-La réservation se fait sur la plateforme ci-contre : [Réservation Education Nationale ](https://www.billetweb.fr/en-transition-espace-ephemere-dart-urbain)
+> #### La réservation se fait sur la plateforme ci-contre : [Réservation Éducation Nationale ](https://www.billetweb.fr/en-transition-espace-ephemere-dart-urbain)
