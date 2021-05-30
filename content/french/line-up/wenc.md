@@ -1,7 +1,6 @@
 +++
 banner = "images/capture-d-ecran-2021-05-30-a-08-54-20.png"
 categories = []
-draft = true
 gallery = ["images/capture-d-ecran-2021-05-30-a-08-54-11.png", "images/capture-d-ecran-2021-05-30-a-08-54-27.png", "images/capture-d-ecran-2021-05-30-a-08-54-40.png"]
 promoted = 0
 title = "WENC"
