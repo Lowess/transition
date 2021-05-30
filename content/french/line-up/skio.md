@@ -1,19 +1,15 @@
 +++
-banner = "images/artists/zag/banner.jpg"
-categories = ["morlaix-paris"]
-draft = true
-gallery = []
+banner = "images/capture-d-ecran-2021-05-30-a-08-33-14.png"
+categories = []
+gallery = ["images/capture-d-ecran-2021-05-30-a-08-33-26.png", "images/capture-d-ecran-2021-05-30-a-08-33-33.png", "images/capture-d-ecran-2021-05-30-a-08-33-45.png"]
 promoted = 0
 title = "Skio"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://www.instagram.com/skio1/"
 
 +++
-# Biographie
----
+# 
 
-**ZAG**
+***
+
+**SKIO**
