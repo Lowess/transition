@@ -1,19 +1,12 @@
 +++
-banner = "images/artists/zag/banner.jpg"
-categories = ["morlaix-paris"]
-draft = true
-gallery = []
+banner = "images/capture-d-ecran-2021-05-30-a-09-07-53.png"
+categories = []
+gallery = ["images/capture-d-ecran-2021-05-30-a-09-08-10.png", "images/capture-d-ecran-2021-05-30-a-09-08-21.png"]
 promoted = 0
+social = []
 title = "A.Treize"
-[[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
 
 +++
-# Biographie
----
+# 
 
-**ZAG**
+***
