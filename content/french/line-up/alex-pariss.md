@@ -5,11 +5,7 @@ gallery = ["images/capture-d-ecran-2021-05-30-a-08-36-08.png", "images/capture-d
 promoted = 0
 title = "Alex Pariss"
 [[social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[social]]
-icon = "ion-social-twitter-outline"
-link = "#"
+link = "https://www.instagram.com/alexpariss.art/"
 
 +++
 # Biographie
