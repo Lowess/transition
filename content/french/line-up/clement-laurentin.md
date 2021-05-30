@@ -5,7 +5,7 @@ gallery = ["images/capture-d-ecran-2021-05-30-a-08-41-11.png", "images/capture-d
 promoted = 0
 title = "CLEMENT LAURENTIN"
 [[social]]
-link = "https://www.instagram.com/cannibal_letters/"
+link = "https://www.instagram.com/clementlaurentin/"
 
 +++
 # Biographie
