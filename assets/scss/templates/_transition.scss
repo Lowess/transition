@@ -12,6 +12,13 @@
   }
 }
 
+#transition-sanitaire {
+  background-color: $dark;
+  p {
+    color: $secondary-color;
+  }
+}
+
 #transition-tickets {
   background-color: $dark;
   color: $secondary-color;

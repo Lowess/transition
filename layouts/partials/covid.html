@@ -1,0 +1,10 @@
+{{ with .Site.Params.covid }}
+
+<div id="transition-sanitaire" class="container-fluid text-center">
+  <div class="justify-content-center p-5">
+    <p>
+      {{ .message | markdownify }}
+    </p>
+  </div>
+</div>
+{{ end }}
