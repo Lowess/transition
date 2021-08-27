@@ -92,17 +92,12 @@ google_analitycs_id = ""
 location = "Quartier du soleil levant - 80100 Abbeville"
 logo = "images/logo_sm.png"
 mobile = "0124857985320"
+[params.covid]
+message = "**Attention ⚠️** !\nSuite aux nouvelles mesures gouvernementales, et malgré la jauge diminuée, nous sommes dans l’obligation de demander __le pass sanitaire aux plus de 18 ans (test pcr ou antigenique de moins de 3 jours, vaccination ou certificat de rétablissement Covid)__.\nSi ce n’est pas possible pour vous, annulez vos réservations en utilisant le lien de la confirmation de réservation que vous avez reçu par mail. Nous ne faisons pas d’annulation par téléphone. Merci de votre compréhension.\n"
 [params.eventbrite]
-message = """Réservation pour une visite nocturne le samedi 28 août à partir de 20h00. En raison du trop grand nombre de personnes souhaitant visiter , et pour vous éviter une trop longue attente sur le parking, nous avons pris la décision avec regret de passer par notre site de réservation.
-Nous en sommes réellement désolé, mais la sécurité est primordiale.
-Merci de votre compréhension.
-Pass sanitaire à jour et masque obligatoire.
-A demain ."""
+message = "Réservation pour une visite nocturne le samedi 28 août à partir de 20h00.  En raison du trop grand nombre de personnes souhaitant visiter , et pour vous éviter une trop longue attente sur le parking, nous avons pris la décision avec regret de passer par notre site de réservation.  Nous en sommes réellement désolé, mais la sécurité est primordiale.  Merci de votre compréhension.  Pass sanitaire à jour et masque obligatoire.  A demain . "
 url = "https://www.billetweb.fr/transition-last-night"
 url_edu = ""
-[params.covid]
-message = """
-"""
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
