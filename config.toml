@@ -95,7 +95,7 @@ mobile = "0124857985320"
 [params.covid]
 message = "\n"
 [params.eventbrite]
-message = "Pour une visite 3D du musée. "
+message = "Pour une visite 3D du musée"
 url = "https://tour.klapty.com/4Dv0EBW9zo/?deeplinking=true&startscene=0&startactions=lookat(180,0,90,0,0);"
 url_edu = ""
 [params.gmap]
