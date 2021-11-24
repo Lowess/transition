@@ -6,6 +6,54 @@
   }
 }
 
+
+.home-hero {
+  padding: 0px;
+
+  .row {
+    margin: 0px;
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+
+  .home-hero-left, .home-hero-right {
+    padding: 20px;
+    .img-thumbnail {
+      width: 400px;
+      height: 400px;
+    }
+  }
+
+  .home-hero-left {
+    background-color: $yellow;
+    .card-header {
+      background-color: $yellow;
+      color: $dark;
+      font-family: $secondary-font;
+      border-radius: 0px;
+      padding: 5px;
+    }
+  }
+
+  .home-hero-right {
+    background-color: $dark;
+    .card-header {
+      background-color: $dark;
+      color: $yellow;
+      font-family: $secondary-font;
+      border-radius: 0px;
+      padding: 5px;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $pink;
+    font-family: $secondary-font;
+  }
+
+}
+
 .home-line-up {
   padding-bottom: 30px;
   color: #fff;

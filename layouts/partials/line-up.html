@@ -1,10 +1,6 @@
 <!--line-up -->
 <section class="home-line-up">
-
-  <div>
-    <img src="{{.Params.banner | relURL}}" class="img-responsive w-100" />
-  </div>
-
+  <h1 class="text-center ">Les Artistes</h1>
   <div class="container-fluid text-center">
     {{ $promotedArtists := slice }}
     {{ range where .Site.Pages "Section" "line-up" }}
